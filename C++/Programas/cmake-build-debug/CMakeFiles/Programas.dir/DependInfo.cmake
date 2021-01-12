@@ -4,7 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/cygdrive/c/Users/hp/Desktop/Codes/C++/1.-ConceptosBasicos/Programas/main.cpp" "/cygdrive/c/Users/hp/Desktop/Codes/C++/1.-ConceptosBasicos/Programas/cmake-build-debug/CMakeFiles/Programas.dir/main.cpp.o"
+  "/cygdrive/c/Users/hp/Desktop/Folder/Cpp/C++/Programas/2_tipos_de_dato.cpp" "/cygdrive/c/Users/hp/Desktop/Folder/Cpp/C++/Programas/cmake-build-debug/CMakeFiles/Programas.dir/2_tipos_de_dato.cpp.o"
+  "/cygdrive/c/Users/hp/Desktop/Folder/Cpp/C++/Programas/main.cpp" "/cygdrive/c/Users/hp/Desktop/Folder/Cpp/C++/Programas/cmake-build-debug/CMakeFiles/Programas.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

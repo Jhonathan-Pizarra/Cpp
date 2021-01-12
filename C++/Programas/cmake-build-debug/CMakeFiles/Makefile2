@@ -44,10 +44,10 @@ RM = /cygdrive/c/Users/hp/.CLion2019.3/system/cygwin_cmake/bin/cmake.exe -E remo
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /cygdrive/c/Users/hp/Desktop/Codes/C++/1.-ConceptosBasicos/Programas
+CMAKE_SOURCE_DIR = /cygdrive/c/Users/hp/Desktop/Folder/Cpp/C++/Programas
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /cygdrive/c/Users/hp/Desktop/Codes/C++/1.-ConceptosBasicos/Programas/cmake-build-debug
+CMAKE_BINARY_DIR = /cygdrive/c/Users/hp/Desktop/Folder/Cpp/C++/Programas/cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -74,14 +74,14 @@ preinstall:
 CMakeFiles/Programas.dir/all:
 	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/depend
 	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/cygdrive/c/Users/hp/Desktop/Codes/C++/1.-ConceptosBasicos/Programas/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target Programas"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/cygdrive/c/Users/hp/Desktop/Folder/Cpp/C++/Programas/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target Programas"
 .PHONY : CMakeFiles/Programas.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Programas.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/hp/Desktop/Codes/C++/1.-ConceptosBasicos/Programas/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/hp/Desktop/Folder/Cpp/C++/Programas/cmake-build-debug/CMakeFiles 3
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Programas.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/hp/Desktop/Codes/C++/1.-ConceptosBasicos/Programas/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/hp/Desktop/Folder/Cpp/C++/Programas/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Programas.dir/rule
 
 # Convenience name for target.

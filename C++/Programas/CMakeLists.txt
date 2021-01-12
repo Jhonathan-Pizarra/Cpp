@@ -3,4 +3,4 @@ project(Programas)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Programas main.cpp)
+add_executable(Programas main.cpp 2_tipos_de_dato.cpp)

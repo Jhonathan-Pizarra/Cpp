@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Programas.dir/2_tipos_de_dato.cpp.o"
   "CMakeFiles/Programas.dir/main.cpp.o"
   "Programas.exe"
   "Programas.pdb"

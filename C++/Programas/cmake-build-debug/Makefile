@@ -48,10 +48,10 @@ RM = /cygdrive/c/Users/hp/.CLion2019.3/system/cygwin_cmake/bin/cmake.exe -E remo
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /cygdrive/c/Users/hp/Desktop/Codes/C++/1.-ConceptosBasicos/Programas
+CMAKE_SOURCE_DIR = /cygdrive/c/Users/hp/Desktop/Folder/Cpp/C++/Programas
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /cygdrive/c/Users/hp/Desktop/Codes/C++/1.-ConceptosBasicos/Programas/cmake-build-debug
+CMAKE_BINARY_DIR = /cygdrive/c/Users/hp/Desktop/Folder/Cpp/C++/Programas/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/hp/Desktop/Codes/C++/1.-ConceptosBasicos/Programas/cmake-build-debug/CMakeFiles /cygdrive/c/Users/hp/Desktop/Codes/C++/1.-ConceptosBasicos/Programas/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/hp/Desktop/Folder/Cpp/C++/Programas/cmake-build-debug/CMakeFiles /cygdrive/c/Users/hp/Desktop/Folder/Cpp/C++/Programas/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/hp/Desktop/Codes/C++/1.-ConceptosBasicos/Programas/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/hp/Desktop/Folder/Cpp/C++/Programas/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -123,6 +123,33 @@ Programas/fast:
 	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/build
 .PHONY : Programas/fast
 
+2_tipos_de_dato.o: 2_tipos_de_dato.cpp.o
+
+.PHONY : 2_tipos_de_dato.o
+
+# target to build an object file
+2_tipos_de_dato.cpp.o:
+	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/2_tipos_de_dato.cpp.o
+.PHONY : 2_tipos_de_dato.cpp.o
+
+2_tipos_de_dato.i: 2_tipos_de_dato.cpp.i
+
+.PHONY : 2_tipos_de_dato.i
+
+# target to preprocess a source file
+2_tipos_de_dato.cpp.i:
+	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/2_tipos_de_dato.cpp.i
+.PHONY : 2_tipos_de_dato.cpp.i
+
+2_tipos_de_dato.s: 2_tipos_de_dato.cpp.s
+
+.PHONY : 2_tipos_de_dato.s
+
+# target to generate assembly for a file
+2_tipos_de_dato.cpp.s:
+	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/2_tipos_de_dato.cpp.s
+.PHONY : 2_tipos_de_dato.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Programas"
 	@echo "... edit_cache"
+	@echo "... 2_tipos_de_dato.o"
+	@echo "... 2_tipos_de_dato.i"
+	@echo "... 2_tipos_de_dato.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -43,10 +43,10 @@ RM = /cygdrive/c/Users/hp/.CLion2019.3/system/cygwin_cmake/bin/cmake.exe -E remo
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /cygdrive/c/Users/hp/Desktop/Codes/C++/1.-ConceptosBasicos/Programas
+CMAKE_SOURCE_DIR = /cygdrive/c/Users/hp/Desktop/Folder/Cpp/C++/Programas
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /cygdrive/c/Users/hp/Desktop/Codes/C++/1.-ConceptosBasicos/Programas/cmake-build-debug
+CMAKE_BINARY_DIR = /cygdrive/c/Users/hp/Desktop/Folder/Cpp/C++/Programas/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Programas.dir/depend.make
@@ -59,28 +59,43 @@ include CMakeFiles/Programas.dir/flags.make
 
 CMakeFiles/Programas.dir/main.cpp.o: CMakeFiles/Programas.dir/flags.make
 CMakeFiles/Programas.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Codes/C++/1.-ConceptosBasicos/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Programas.dir/main.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/main.cpp.o -c /cygdrive/c/Users/hp/Desktop/Codes/C++/1.-ConceptosBasicos/Programas/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Folder/Cpp/C++/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Programas.dir/main.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/main.cpp.o -c /cygdrive/c/Users/hp/Desktop/Folder/Cpp/C++/Programas/main.cpp
 
 CMakeFiles/Programas.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/main.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Codes/C++/1.-ConceptosBasicos/Programas/main.cpp > CMakeFiles/Programas.dir/main.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Folder/Cpp/C++/Programas/main.cpp > CMakeFiles/Programas.dir/main.cpp.i
 
 CMakeFiles/Programas.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/main.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Codes/C++/1.-ConceptosBasicos/Programas/main.cpp -o CMakeFiles/Programas.dir/main.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Folder/Cpp/C++/Programas/main.cpp -o CMakeFiles/Programas.dir/main.cpp.s
+
+CMakeFiles/Programas.dir/2_tipos_de_dato.cpp.o: CMakeFiles/Programas.dir/flags.make
+CMakeFiles/Programas.dir/2_tipos_de_dato.cpp.o: ../2_tipos_de_dato.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Folder/Cpp/C++/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Programas.dir/2_tipos_de_dato.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/2_tipos_de_dato.cpp.o -c /cygdrive/c/Users/hp/Desktop/Folder/Cpp/C++/Programas/2_tipos_de_dato.cpp
+
+CMakeFiles/Programas.dir/2_tipos_de_dato.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/2_tipos_de_dato.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Folder/Cpp/C++/Programas/2_tipos_de_dato.cpp > CMakeFiles/Programas.dir/2_tipos_de_dato.cpp.i
+
+CMakeFiles/Programas.dir/2_tipos_de_dato.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/2_tipos_de_dato.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Folder/Cpp/C++/Programas/2_tipos_de_dato.cpp -o CMakeFiles/Programas.dir/2_tipos_de_dato.cpp.s
 
 # Object files for target Programas
 Programas_OBJECTS = \
-"CMakeFiles/Programas.dir/main.cpp.o"
+"CMakeFiles/Programas.dir/main.cpp.o" \
+"CMakeFiles/Programas.dir/2_tipos_de_dato.cpp.o"
 
 # External object files for target Programas
 Programas_EXTERNAL_OBJECTS =
 
 Programas.exe: CMakeFiles/Programas.dir/main.cpp.o
+Programas.exe: CMakeFiles/Programas.dir/2_tipos_de_dato.cpp.o
 Programas.exe: CMakeFiles/Programas.dir/build.make
 Programas.exe: CMakeFiles/Programas.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/hp/Desktop/Codes/C++/1.-ConceptosBasicos/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Programas.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/hp/Desktop/Folder/Cpp/C++/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Programas.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Programas.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -93,6 +108,6 @@ CMakeFiles/Programas.dir/clean:
 .PHONY : CMakeFiles/Programas.dir/clean
 
 CMakeFiles/Programas.dir/depend:
-	cd /cygdrive/c/Users/hp/Desktop/Codes/C++/1.-ConceptosBasicos/Programas/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /cygdrive/c/Users/hp/Desktop/Codes/C++/1.-ConceptosBasicos/Programas /cygdrive/c/Users/hp/Desktop/Codes/C++/1.-ConceptosBasicos/Programas /cygdrive/c/Users/hp/Desktop/Codes/C++/1.-ConceptosBasicos/Programas/cmake-build-debug /cygdrive/c/Users/hp/Desktop/Codes/C++/1.-ConceptosBasicos/Programas/cmake-build-debug /cygdrive/c/Users/hp/Desktop/Codes/C++/1.-ConceptosBasicos/Programas/cmake-build-debug/CMakeFiles/Programas.dir/DependInfo.cmake --color=$(COLOR)
+	cd /cygdrive/c/Users/hp/Desktop/Folder/Cpp/C++/Programas/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /cygdrive/c/Users/hp/Desktop/Folder/Cpp/C++/Programas /cygdrive/c/Users/hp/Desktop/Folder/Cpp/C++/Programas /cygdrive/c/Users/hp/Desktop/Folder/Cpp/C++/Programas/cmake-build-debug /cygdrive/c/Users/hp/Desktop/Folder/Cpp/C++/Programas/cmake-build-debug /cygdrive/c/Users/hp/Desktop/Folder/Cpp/C++/Programas/cmake-build-debug/CMakeFiles/Programas.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Programas.dir/depend
 
