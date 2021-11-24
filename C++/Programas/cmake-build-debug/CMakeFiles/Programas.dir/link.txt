@@ -1,1 +1,0 @@
-/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Programas.dir/main.cpp.o CMakeFiles/Programas.dir/2_tipos_de_dato.cpp.o  -o Programas.exe -Wl,--out-implib,libProgramas.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

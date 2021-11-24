@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Programas"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Programas">
+				<Option output="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/Programas.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Programas"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Programas/fast">
+				<Option output="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/Programas.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Programas/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/10_punteros.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/11_operaciones_punteros.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/12_memoria.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/13_operador_sizeof.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/14_funciones.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/15_prototipos.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/16_parametros.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/17_parametros_multiples.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/18_random.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/19_srandom.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/1_holaMundo.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/20_truly_randoms.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/21_parametos_inicializados.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/22_overloading.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/23_recursividad.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/24_arrays_functions.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/25_funciones_refers.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/26_classes.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/27_identificador_acceso.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/28_metodos_publicos.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/29_contructores.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/2_variables_y_tipos_de_dato.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/30_contructor_iniciado.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/31_clases_separadas.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/32_destructor.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/33_objeto_memoria.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/34_composition.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/35_friend_function.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/36_this.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/37_overload.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/38_herencia.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/39_herencia_contructores.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/3_entradas_y_salidas.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/40_polimorfismo.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/41_funcion_virtual.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/42_funcion_virtual_pura.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/43_templates.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/44_templates_multiple.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/45_template_class.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/46_template_specialization.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/47_try_catch.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/48_hanlde_errors.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/4_operadores.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/5_condicionales.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/6_bucles.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/7_arrays.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/8_arrays_loops.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/9_matrices.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/Constantes.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/Constantes.h">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/Miembros.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/Miembros.h">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/MyClass.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/MyClass.h">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/Selectores.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/Selectores.h">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/files.cpp">
+			<Option target="Programas"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
