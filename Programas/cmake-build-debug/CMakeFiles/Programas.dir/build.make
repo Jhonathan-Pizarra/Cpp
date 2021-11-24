@@ -57,810 +57,135 @@ include CMakeFiles/Programas.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Programas.dir/flags.make
 
-CMakeFiles/Programas.dir/1_holaMundo.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/1_holaMundo.cpp.o: ../1_holaMundo.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Programas.dir/1_holaMundo.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/1_holaMundo.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/1_holaMundo.cpp
-
-CMakeFiles/Programas.dir/1_holaMundo.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/1_holaMundo.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/1_holaMundo.cpp > CMakeFiles/Programas.dir/1_holaMundo.cpp.i
-
-CMakeFiles/Programas.dir/1_holaMundo.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/1_holaMundo.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/1_holaMundo.cpp -o CMakeFiles/Programas.dir/1_holaMundo.cpp.s
-
-CMakeFiles/Programas.dir/2_variables_y_tipos_de_dato.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/2_variables_y_tipos_de_dato.cpp.o: ../2_variables_y_tipos_de_dato.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Programas.dir/2_variables_y_tipos_de_dato.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/2_variables_y_tipos_de_dato.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/2_variables_y_tipos_de_dato.cpp
-
-CMakeFiles/Programas.dir/2_variables_y_tipos_de_dato.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/2_variables_y_tipos_de_dato.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/2_variables_y_tipos_de_dato.cpp > CMakeFiles/Programas.dir/2_variables_y_tipos_de_dato.cpp.i
-
-CMakeFiles/Programas.dir/2_variables_y_tipos_de_dato.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/2_variables_y_tipos_de_dato.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/2_variables_y_tipos_de_dato.cpp -o CMakeFiles/Programas.dir/2_variables_y_tipos_de_dato.cpp.s
-
-CMakeFiles/Programas.dir/3_entradas_y_salidas.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/3_entradas_y_salidas.cpp.o: ../3_entradas_y_salidas.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Programas.dir/3_entradas_y_salidas.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/3_entradas_y_salidas.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/3_entradas_y_salidas.cpp
-
-CMakeFiles/Programas.dir/3_entradas_y_salidas.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/3_entradas_y_salidas.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/3_entradas_y_salidas.cpp > CMakeFiles/Programas.dir/3_entradas_y_salidas.cpp.i
-
-CMakeFiles/Programas.dir/3_entradas_y_salidas.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/3_entradas_y_salidas.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/3_entradas_y_salidas.cpp -o CMakeFiles/Programas.dir/3_entradas_y_salidas.cpp.s
-
-CMakeFiles/Programas.dir/4_operadores.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/4_operadores.cpp.o: ../4_operadores.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Programas.dir/4_operadores.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/4_operadores.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/4_operadores.cpp
-
-CMakeFiles/Programas.dir/4_operadores.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/4_operadores.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/4_operadores.cpp > CMakeFiles/Programas.dir/4_operadores.cpp.i
-
-CMakeFiles/Programas.dir/4_operadores.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/4_operadores.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/4_operadores.cpp -o CMakeFiles/Programas.dir/4_operadores.cpp.s
-
-CMakeFiles/Programas.dir/5_condicionales.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/5_condicionales.cpp.o: ../5_condicionales.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Programas.dir/5_condicionales.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/5_condicionales.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/5_condicionales.cpp
-
-CMakeFiles/Programas.dir/5_condicionales.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/5_condicionales.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/5_condicionales.cpp > CMakeFiles/Programas.dir/5_condicionales.cpp.i
-
-CMakeFiles/Programas.dir/5_condicionales.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/5_condicionales.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/5_condicionales.cpp -o CMakeFiles/Programas.dir/5_condicionales.cpp.s
-
-CMakeFiles/Programas.dir/6_bucles.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/6_bucles.cpp.o: ../6_bucles.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Programas.dir/6_bucles.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/6_bucles.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/6_bucles.cpp
-
-CMakeFiles/Programas.dir/6_bucles.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/6_bucles.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/6_bucles.cpp > CMakeFiles/Programas.dir/6_bucles.cpp.i
-
-CMakeFiles/Programas.dir/6_bucles.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/6_bucles.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/6_bucles.cpp -o CMakeFiles/Programas.dir/6_bucles.cpp.s
-
-CMakeFiles/Programas.dir/7_arrays.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/7_arrays.cpp.o: ../7_arrays.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Programas.dir/7_arrays.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/7_arrays.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/7_arrays.cpp
-
-CMakeFiles/Programas.dir/7_arrays.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/7_arrays.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/7_arrays.cpp > CMakeFiles/Programas.dir/7_arrays.cpp.i
-
-CMakeFiles/Programas.dir/7_arrays.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/7_arrays.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/7_arrays.cpp -o CMakeFiles/Programas.dir/7_arrays.cpp.s
-
-CMakeFiles/Programas.dir/8_arrays_loops.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/8_arrays_loops.cpp.o: ../8_arrays_loops.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Programas.dir/8_arrays_loops.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/8_arrays_loops.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/8_arrays_loops.cpp
-
-CMakeFiles/Programas.dir/8_arrays_loops.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/8_arrays_loops.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/8_arrays_loops.cpp > CMakeFiles/Programas.dir/8_arrays_loops.cpp.i
-
-CMakeFiles/Programas.dir/8_arrays_loops.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/8_arrays_loops.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/8_arrays_loops.cpp -o CMakeFiles/Programas.dir/8_arrays_loops.cpp.s
-
-CMakeFiles/Programas.dir/9_matrices.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/9_matrices.cpp.o: ../9_matrices.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Programas.dir/9_matrices.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/9_matrices.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/9_matrices.cpp
-
-CMakeFiles/Programas.dir/9_matrices.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/9_matrices.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/9_matrices.cpp > CMakeFiles/Programas.dir/9_matrices.cpp.i
-
-CMakeFiles/Programas.dir/9_matrices.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/9_matrices.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/9_matrices.cpp -o CMakeFiles/Programas.dir/9_matrices.cpp.s
-
-CMakeFiles/Programas.dir/10_punteros.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/10_punteros.cpp.o: ../10_punteros.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Programas.dir/10_punteros.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/10_punteros.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/10_punteros.cpp
-
-CMakeFiles/Programas.dir/10_punteros.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/10_punteros.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/10_punteros.cpp > CMakeFiles/Programas.dir/10_punteros.cpp.i
-
-CMakeFiles/Programas.dir/10_punteros.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/10_punteros.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/10_punteros.cpp -o CMakeFiles/Programas.dir/10_punteros.cpp.s
-
-CMakeFiles/Programas.dir/11_operaciones_punteros.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/11_operaciones_punteros.cpp.o: ../11_operaciones_punteros.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Programas.dir/11_operaciones_punteros.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/11_operaciones_punteros.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/11_operaciones_punteros.cpp
-
-CMakeFiles/Programas.dir/11_operaciones_punteros.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/11_operaciones_punteros.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/11_operaciones_punteros.cpp > CMakeFiles/Programas.dir/11_operaciones_punteros.cpp.i
-
-CMakeFiles/Programas.dir/11_operaciones_punteros.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/11_operaciones_punteros.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/11_operaciones_punteros.cpp -o CMakeFiles/Programas.dir/11_operaciones_punteros.cpp.s
-
-CMakeFiles/Programas.dir/12_memoria.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/12_memoria.cpp.o: ../12_memoria.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Programas.dir/12_memoria.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/12_memoria.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/12_memoria.cpp
-
-CMakeFiles/Programas.dir/12_memoria.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/12_memoria.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/12_memoria.cpp > CMakeFiles/Programas.dir/12_memoria.cpp.i
-
-CMakeFiles/Programas.dir/12_memoria.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/12_memoria.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/12_memoria.cpp -o CMakeFiles/Programas.dir/12_memoria.cpp.s
-
-CMakeFiles/Programas.dir/13_operador_sizeof.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/13_operador_sizeof.cpp.o: ../13_operador_sizeof.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/Programas.dir/13_operador_sizeof.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/13_operador_sizeof.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/13_operador_sizeof.cpp
-
-CMakeFiles/Programas.dir/13_operador_sizeof.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/13_operador_sizeof.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/13_operador_sizeof.cpp > CMakeFiles/Programas.dir/13_operador_sizeof.cpp.i
-
-CMakeFiles/Programas.dir/13_operador_sizeof.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/13_operador_sizeof.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/13_operador_sizeof.cpp -o CMakeFiles/Programas.dir/13_operador_sizeof.cpp.s
-
-CMakeFiles/Programas.dir/14_funciones.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/14_funciones.cpp.o: ../14_funciones.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/Programas.dir/14_funciones.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/14_funciones.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/14_funciones.cpp
-
-CMakeFiles/Programas.dir/14_funciones.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/14_funciones.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/14_funciones.cpp > CMakeFiles/Programas.dir/14_funciones.cpp.i
-
-CMakeFiles/Programas.dir/14_funciones.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/14_funciones.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/14_funciones.cpp -o CMakeFiles/Programas.dir/14_funciones.cpp.s
-
-CMakeFiles/Programas.dir/15_prototipos.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/15_prototipos.cpp.o: ../15_prototipos.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/Programas.dir/15_prototipos.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/15_prototipos.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/15_prototipos.cpp
-
-CMakeFiles/Programas.dir/15_prototipos.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/15_prototipos.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/15_prototipos.cpp > CMakeFiles/Programas.dir/15_prototipos.cpp.i
-
-CMakeFiles/Programas.dir/15_prototipos.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/15_prototipos.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/15_prototipos.cpp -o CMakeFiles/Programas.dir/15_prototipos.cpp.s
-
-CMakeFiles/Programas.dir/16_parametros.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/16_parametros.cpp.o: ../16_parametros.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/Programas.dir/16_parametros.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/16_parametros.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/16_parametros.cpp
-
-CMakeFiles/Programas.dir/16_parametros.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/16_parametros.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/16_parametros.cpp > CMakeFiles/Programas.dir/16_parametros.cpp.i
-
-CMakeFiles/Programas.dir/16_parametros.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/16_parametros.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/16_parametros.cpp -o CMakeFiles/Programas.dir/16_parametros.cpp.s
-
-CMakeFiles/Programas.dir/17_parametros_multiples.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/17_parametros_multiples.cpp.o: ../17_parametros_multiples.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/Programas.dir/17_parametros_multiples.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/17_parametros_multiples.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/17_parametros_multiples.cpp
-
-CMakeFiles/Programas.dir/17_parametros_multiples.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/17_parametros_multiples.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/17_parametros_multiples.cpp > CMakeFiles/Programas.dir/17_parametros_multiples.cpp.i
-
-CMakeFiles/Programas.dir/17_parametros_multiples.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/17_parametros_multiples.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/17_parametros_multiples.cpp -o CMakeFiles/Programas.dir/17_parametros_multiples.cpp.s
-
-CMakeFiles/Programas.dir/18_random.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/18_random.cpp.o: ../18_random.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/Programas.dir/18_random.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/18_random.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/18_random.cpp
-
-CMakeFiles/Programas.dir/18_random.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/18_random.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/18_random.cpp > CMakeFiles/Programas.dir/18_random.cpp.i
-
-CMakeFiles/Programas.dir/18_random.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/18_random.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/18_random.cpp -o CMakeFiles/Programas.dir/18_random.cpp.s
-
-CMakeFiles/Programas.dir/19_srandom.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/19_srandom.cpp.o: ../19_srandom.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/Programas.dir/19_srandom.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/19_srandom.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/19_srandom.cpp
-
-CMakeFiles/Programas.dir/19_srandom.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/19_srandom.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/19_srandom.cpp > CMakeFiles/Programas.dir/19_srandom.cpp.i
-
-CMakeFiles/Programas.dir/19_srandom.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/19_srandom.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/19_srandom.cpp -o CMakeFiles/Programas.dir/19_srandom.cpp.s
-
-CMakeFiles/Programas.dir/20_truly_randoms.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/20_truly_randoms.cpp.o: ../20_truly_randoms.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/Programas.dir/20_truly_randoms.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/20_truly_randoms.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/20_truly_randoms.cpp
-
-CMakeFiles/Programas.dir/20_truly_randoms.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/20_truly_randoms.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/20_truly_randoms.cpp > CMakeFiles/Programas.dir/20_truly_randoms.cpp.i
-
-CMakeFiles/Programas.dir/20_truly_randoms.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/20_truly_randoms.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/20_truly_randoms.cpp -o CMakeFiles/Programas.dir/20_truly_randoms.cpp.s
-
-CMakeFiles/Programas.dir/21_parametos_inicializados.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/21_parametos_inicializados.cpp.o: ../21_parametos_inicializados.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/Programas.dir/21_parametos_inicializados.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/21_parametos_inicializados.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/21_parametos_inicializados.cpp
-
-CMakeFiles/Programas.dir/21_parametos_inicializados.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/21_parametos_inicializados.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/21_parametos_inicializados.cpp > CMakeFiles/Programas.dir/21_parametos_inicializados.cpp.i
-
-CMakeFiles/Programas.dir/21_parametos_inicializados.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/21_parametos_inicializados.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/21_parametos_inicializados.cpp -o CMakeFiles/Programas.dir/21_parametos_inicializados.cpp.s
-
-CMakeFiles/Programas.dir/22_overloading.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/22_overloading.cpp.o: ../22_overloading.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/Programas.dir/22_overloading.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/22_overloading.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/22_overloading.cpp
-
-CMakeFiles/Programas.dir/22_overloading.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/22_overloading.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/22_overloading.cpp > CMakeFiles/Programas.dir/22_overloading.cpp.i
-
-CMakeFiles/Programas.dir/22_overloading.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/22_overloading.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/22_overloading.cpp -o CMakeFiles/Programas.dir/22_overloading.cpp.s
-
-CMakeFiles/Programas.dir/23_recursividad.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/23_recursividad.cpp.o: ../23_recursividad.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/Programas.dir/23_recursividad.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/23_recursividad.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/23_recursividad.cpp
-
-CMakeFiles/Programas.dir/23_recursividad.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/23_recursividad.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/23_recursividad.cpp > CMakeFiles/Programas.dir/23_recursividad.cpp.i
-
-CMakeFiles/Programas.dir/23_recursividad.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/23_recursividad.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/23_recursividad.cpp -o CMakeFiles/Programas.dir/23_recursividad.cpp.s
-
-CMakeFiles/Programas.dir/24_arrays_functions.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/24_arrays_functions.cpp.o: ../24_arrays_functions.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/Programas.dir/24_arrays_functions.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/24_arrays_functions.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/24_arrays_functions.cpp
-
-CMakeFiles/Programas.dir/24_arrays_functions.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/24_arrays_functions.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/24_arrays_functions.cpp > CMakeFiles/Programas.dir/24_arrays_functions.cpp.i
-
-CMakeFiles/Programas.dir/24_arrays_functions.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/24_arrays_functions.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/24_arrays_functions.cpp -o CMakeFiles/Programas.dir/24_arrays_functions.cpp.s
-
-CMakeFiles/Programas.dir/25_funciones_refers.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/25_funciones_refers.cpp.o: ../25_funciones_refers.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/Programas.dir/25_funciones_refers.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/25_funciones_refers.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/25_funciones_refers.cpp
-
-CMakeFiles/Programas.dir/25_funciones_refers.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/25_funciones_refers.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/25_funciones_refers.cpp > CMakeFiles/Programas.dir/25_funciones_refers.cpp.i
-
-CMakeFiles/Programas.dir/25_funciones_refers.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/25_funciones_refers.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/25_funciones_refers.cpp -o CMakeFiles/Programas.dir/25_funciones_refers.cpp.s
-
-CMakeFiles/Programas.dir/26_classes.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/26_classes.cpp.o: ../26_classes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/Programas.dir/26_classes.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/26_classes.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/26_classes.cpp
-
-CMakeFiles/Programas.dir/26_classes.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/26_classes.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/26_classes.cpp > CMakeFiles/Programas.dir/26_classes.cpp.i
-
-CMakeFiles/Programas.dir/26_classes.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/26_classes.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/26_classes.cpp -o CMakeFiles/Programas.dir/26_classes.cpp.s
-
-CMakeFiles/Programas.dir/27_identificador_acceso.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/27_identificador_acceso.cpp.o: ../27_identificador_acceso.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/Programas.dir/27_identificador_acceso.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/27_identificador_acceso.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/27_identificador_acceso.cpp
-
-CMakeFiles/Programas.dir/27_identificador_acceso.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/27_identificador_acceso.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/27_identificador_acceso.cpp > CMakeFiles/Programas.dir/27_identificador_acceso.cpp.i
-
-CMakeFiles/Programas.dir/27_identificador_acceso.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/27_identificador_acceso.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/27_identificador_acceso.cpp -o CMakeFiles/Programas.dir/27_identificador_acceso.cpp.s
-
-CMakeFiles/Programas.dir/28_metodos_publicos.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/28_metodos_publicos.cpp.o: ../28_metodos_publicos.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/Programas.dir/28_metodos_publicos.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/28_metodos_publicos.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/28_metodos_publicos.cpp
-
-CMakeFiles/Programas.dir/28_metodos_publicos.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/28_metodos_publicos.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/28_metodos_publicos.cpp > CMakeFiles/Programas.dir/28_metodos_publicos.cpp.i
-
-CMakeFiles/Programas.dir/28_metodos_publicos.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/28_metodos_publicos.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/28_metodos_publicos.cpp -o CMakeFiles/Programas.dir/28_metodos_publicos.cpp.s
-
-CMakeFiles/Programas.dir/29_contructores.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/29_contructores.cpp.o: ../29_contructores.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/Programas.dir/29_contructores.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/29_contructores.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/29_contructores.cpp
-
-CMakeFiles/Programas.dir/29_contructores.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/29_contructores.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/29_contructores.cpp > CMakeFiles/Programas.dir/29_contructores.cpp.i
-
-CMakeFiles/Programas.dir/29_contructores.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/29_contructores.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/29_contructores.cpp -o CMakeFiles/Programas.dir/29_contructores.cpp.s
-
-CMakeFiles/Programas.dir/30_contructor_iniciado.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/30_contructor_iniciado.cpp.o: ../30_contructor_iniciado.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/Programas.dir/30_contructor_iniciado.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/30_contructor_iniciado.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/30_contructor_iniciado.cpp
-
-CMakeFiles/Programas.dir/30_contructor_iniciado.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/30_contructor_iniciado.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/30_contructor_iniciado.cpp > CMakeFiles/Programas.dir/30_contructor_iniciado.cpp.i
-
-CMakeFiles/Programas.dir/30_contructor_iniciado.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/30_contructor_iniciado.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/30_contructor_iniciado.cpp -o CMakeFiles/Programas.dir/30_contructor_iniciado.cpp.s
-
-CMakeFiles/Programas.dir/31_clases_separadas.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/31_clases_separadas.cpp.o: ../31_clases_separadas.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/Programas.dir/31_clases_separadas.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/31_clases_separadas.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/31_clases_separadas.cpp
-
-CMakeFiles/Programas.dir/31_clases_separadas.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/31_clases_separadas.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/31_clases_separadas.cpp > CMakeFiles/Programas.dir/31_clases_separadas.cpp.i
-
-CMakeFiles/Programas.dir/31_clases_separadas.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/31_clases_separadas.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/31_clases_separadas.cpp -o CMakeFiles/Programas.dir/31_clases_separadas.cpp.s
-
-CMakeFiles/Programas.dir/MyClass.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/MyClass.cpp.o: ../MyClass.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/Programas.dir/MyClass.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/MyClass.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/MyClass.cpp
-
-CMakeFiles/Programas.dir/MyClass.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/MyClass.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/MyClass.cpp > CMakeFiles/Programas.dir/MyClass.cpp.i
-
-CMakeFiles/Programas.dir/MyClass.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/MyClass.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/MyClass.cpp -o CMakeFiles/Programas.dir/MyClass.cpp.s
-
-CMakeFiles/Programas.dir/32_destructor.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/32_destructor.cpp.o: ../32_destructor.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/Programas.dir/32_destructor.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/32_destructor.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/32_destructor.cpp
-
-CMakeFiles/Programas.dir/32_destructor.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/32_destructor.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/32_destructor.cpp > CMakeFiles/Programas.dir/32_destructor.cpp.i
-
-CMakeFiles/Programas.dir/32_destructor.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/32_destructor.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/32_destructor.cpp -o CMakeFiles/Programas.dir/32_destructor.cpp.s
-
-CMakeFiles/Programas.dir/Selectores.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/Selectores.cpp.o: ../Selectores.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/Programas.dir/Selectores.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/Selectores.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/Selectores.cpp
-
-CMakeFiles/Programas.dir/Selectores.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/Selectores.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/Selectores.cpp > CMakeFiles/Programas.dir/Selectores.cpp.i
-
-CMakeFiles/Programas.dir/Selectores.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/Selectores.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/Selectores.cpp -o CMakeFiles/Programas.dir/Selectores.cpp.s
-
-CMakeFiles/Programas.dir/33_objeto_memoria.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/33_objeto_memoria.cpp.o: ../33_objeto_memoria.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/Programas.dir/33_objeto_memoria.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/33_objeto_memoria.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/33_objeto_memoria.cpp
-
-CMakeFiles/Programas.dir/33_objeto_memoria.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/33_objeto_memoria.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/33_objeto_memoria.cpp > CMakeFiles/Programas.dir/33_objeto_memoria.cpp.i
-
-CMakeFiles/Programas.dir/33_objeto_memoria.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/33_objeto_memoria.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/33_objeto_memoria.cpp -o CMakeFiles/Programas.dir/33_objeto_memoria.cpp.s
-
-CMakeFiles/Programas.dir/Constantes.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/Constantes.cpp.o: ../Constantes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/Programas.dir/Constantes.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/Constantes.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/Constantes.cpp
-
-CMakeFiles/Programas.dir/Constantes.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/Constantes.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/Constantes.cpp > CMakeFiles/Programas.dir/Constantes.cpp.i
-
-CMakeFiles/Programas.dir/Constantes.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/Constantes.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/Constantes.cpp -o CMakeFiles/Programas.dir/Constantes.cpp.s
-
-CMakeFiles/Programas.dir/Miembros.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/Miembros.cpp.o: ../Miembros.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/Programas.dir/Miembros.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/Miembros.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/Miembros.cpp
-
-CMakeFiles/Programas.dir/Miembros.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/Miembros.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/Miembros.cpp > CMakeFiles/Programas.dir/Miembros.cpp.i
-
-CMakeFiles/Programas.dir/Miembros.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/Miembros.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/Miembros.cpp -o CMakeFiles/Programas.dir/Miembros.cpp.s
-
-CMakeFiles/Programas.dir/34_composition.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/34_composition.cpp.o: ../34_composition.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/Programas.dir/34_composition.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/34_composition.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/34_composition.cpp
-
-CMakeFiles/Programas.dir/34_composition.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/34_composition.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/34_composition.cpp > CMakeFiles/Programas.dir/34_composition.cpp.i
-
-CMakeFiles/Programas.dir/34_composition.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/34_composition.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/34_composition.cpp -o CMakeFiles/Programas.dir/34_composition.cpp.s
-
-CMakeFiles/Programas.dir/35_friend_function.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/35_friend_function.cpp.o: ../35_friend_function.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/Programas.dir/35_friend_function.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/35_friend_function.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/35_friend_function.cpp
-
-CMakeFiles/Programas.dir/35_friend_function.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/35_friend_function.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/35_friend_function.cpp > CMakeFiles/Programas.dir/35_friend_function.cpp.i
-
-CMakeFiles/Programas.dir/35_friend_function.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/35_friend_function.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/35_friend_function.cpp -o CMakeFiles/Programas.dir/35_friend_function.cpp.s
-
-CMakeFiles/Programas.dir/36_this.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/36_this.cpp.o: ../36_this.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/Programas.dir/36_this.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/36_this.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/36_this.cpp
-
-CMakeFiles/Programas.dir/36_this.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/36_this.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/36_this.cpp > CMakeFiles/Programas.dir/36_this.cpp.i
-
-CMakeFiles/Programas.dir/36_this.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/36_this.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/36_this.cpp -o CMakeFiles/Programas.dir/36_this.cpp.s
-
-CMakeFiles/Programas.dir/37_overload.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/37_overload.cpp.o: ../37_overload.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/Programas.dir/37_overload.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/37_overload.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/37_overload.cpp
-
-CMakeFiles/Programas.dir/37_overload.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/37_overload.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/37_overload.cpp > CMakeFiles/Programas.dir/37_overload.cpp.i
-
-CMakeFiles/Programas.dir/37_overload.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/37_overload.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/37_overload.cpp -o CMakeFiles/Programas.dir/37_overload.cpp.s
-
-CMakeFiles/Programas.dir/38_herencia.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/38_herencia.cpp.o: ../38_herencia.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/Programas.dir/38_herencia.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/38_herencia.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/38_herencia.cpp
-
-CMakeFiles/Programas.dir/38_herencia.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/38_herencia.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/38_herencia.cpp > CMakeFiles/Programas.dir/38_herencia.cpp.i
-
-CMakeFiles/Programas.dir/38_herencia.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/38_herencia.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/38_herencia.cpp -o CMakeFiles/Programas.dir/38_herencia.cpp.s
-
-CMakeFiles/Programas.dir/39_herencia_contructores.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/39_herencia_contructores.cpp.o: ../39_herencia_contructores.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/Programas.dir/39_herencia_contructores.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/39_herencia_contructores.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/39_herencia_contructores.cpp
-
-CMakeFiles/Programas.dir/39_herencia_contructores.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/39_herencia_contructores.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/39_herencia_contructores.cpp > CMakeFiles/Programas.dir/39_herencia_contructores.cpp.i
-
-CMakeFiles/Programas.dir/39_herencia_contructores.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/39_herencia_contructores.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/39_herencia_contructores.cpp -o CMakeFiles/Programas.dir/39_herencia_contructores.cpp.s
-
-CMakeFiles/Programas.dir/40_polimorfismo.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/40_polimorfismo.cpp.o: ../40_polimorfismo.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/Programas.dir/40_polimorfismo.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/40_polimorfismo.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/40_polimorfismo.cpp
-
-CMakeFiles/Programas.dir/40_polimorfismo.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/40_polimorfismo.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/40_polimorfismo.cpp > CMakeFiles/Programas.dir/40_polimorfismo.cpp.i
-
-CMakeFiles/Programas.dir/40_polimorfismo.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/40_polimorfismo.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/40_polimorfismo.cpp -o CMakeFiles/Programas.dir/40_polimorfismo.cpp.s
-
-CMakeFiles/Programas.dir/41_funcion_virtual.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/41_funcion_virtual.cpp.o: ../41_funcion_virtual.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/Programas.dir/41_funcion_virtual.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/41_funcion_virtual.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/41_funcion_virtual.cpp
-
-CMakeFiles/Programas.dir/41_funcion_virtual.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/41_funcion_virtual.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/41_funcion_virtual.cpp > CMakeFiles/Programas.dir/41_funcion_virtual.cpp.i
-
-CMakeFiles/Programas.dir/41_funcion_virtual.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/41_funcion_virtual.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/41_funcion_virtual.cpp -o CMakeFiles/Programas.dir/41_funcion_virtual.cpp.s
-
-CMakeFiles/Programas.dir/42_funcion_virtual_pura.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/42_funcion_virtual_pura.cpp.o: ../42_funcion_virtual_pura.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/Programas.dir/42_funcion_virtual_pura.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/42_funcion_virtual_pura.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/42_funcion_virtual_pura.cpp
-
-CMakeFiles/Programas.dir/42_funcion_virtual_pura.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/42_funcion_virtual_pura.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/42_funcion_virtual_pura.cpp > CMakeFiles/Programas.dir/42_funcion_virtual_pura.cpp.i
-
-CMakeFiles/Programas.dir/42_funcion_virtual_pura.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/42_funcion_virtual_pura.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/42_funcion_virtual_pura.cpp -o CMakeFiles/Programas.dir/42_funcion_virtual_pura.cpp.s
-
-CMakeFiles/Programas.dir/43_templates.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/43_templates.cpp.o: ../43_templates.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/Programas.dir/43_templates.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/43_templates.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/43_templates.cpp
-
-CMakeFiles/Programas.dir/43_templates.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/43_templates.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/43_templates.cpp > CMakeFiles/Programas.dir/43_templates.cpp.i
-
-CMakeFiles/Programas.dir/43_templates.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/43_templates.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/43_templates.cpp -o CMakeFiles/Programas.dir/43_templates.cpp.s
-
-CMakeFiles/Programas.dir/44_templates_multiple.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/44_templates_multiple.cpp.o: ../44_templates_multiple.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/Programas.dir/44_templates_multiple.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/44_templates_multiple.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/44_templates_multiple.cpp
-
-CMakeFiles/Programas.dir/44_templates_multiple.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/44_templates_multiple.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/44_templates_multiple.cpp > CMakeFiles/Programas.dir/44_templates_multiple.cpp.i
-
-CMakeFiles/Programas.dir/44_templates_multiple.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/44_templates_multiple.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/44_templates_multiple.cpp -o CMakeFiles/Programas.dir/44_templates_multiple.cpp.s
-
-CMakeFiles/Programas.dir/45_template_class.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/45_template_class.cpp.o: ../45_template_class.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/Programas.dir/45_template_class.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/45_template_class.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/45_template_class.cpp
-
-CMakeFiles/Programas.dir/45_template_class.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/45_template_class.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/45_template_class.cpp > CMakeFiles/Programas.dir/45_template_class.cpp.i
-
-CMakeFiles/Programas.dir/45_template_class.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/45_template_class.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/45_template_class.cpp -o CMakeFiles/Programas.dir/45_template_class.cpp.s
-
-CMakeFiles/Programas.dir/46_template_specialization.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/46_template_specialization.cpp.o: ../46_template_specialization.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/Programas.dir/46_template_specialization.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/46_template_specialization.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/46_template_specialization.cpp
-
-CMakeFiles/Programas.dir/46_template_specialization.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/46_template_specialization.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/46_template_specialization.cpp > CMakeFiles/Programas.dir/46_template_specialization.cpp.i
-
-CMakeFiles/Programas.dir/46_template_specialization.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/46_template_specialization.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/46_template_specialization.cpp -o CMakeFiles/Programas.dir/46_template_specialization.cpp.s
-
-CMakeFiles/Programas.dir/47_try_catch.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/47_try_catch.cpp.o: ../47_try_catch.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/Programas.dir/47_try_catch.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/47_try_catch.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/47_try_catch.cpp
-
-CMakeFiles/Programas.dir/47_try_catch.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/47_try_catch.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/47_try_catch.cpp > CMakeFiles/Programas.dir/47_try_catch.cpp.i
-
-CMakeFiles/Programas.dir/47_try_catch.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/47_try_catch.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/47_try_catch.cpp -o CMakeFiles/Programas.dir/47_try_catch.cpp.s
-
-CMakeFiles/Programas.dir/48_hanlde_errors.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/48_hanlde_errors.cpp.o: ../48_hanlde_errors.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/Programas.dir/48_hanlde_errors.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/48_hanlde_errors.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/48_hanlde_errors.cpp
-
-CMakeFiles/Programas.dir/48_hanlde_errors.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/48_hanlde_errors.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/48_hanlde_errors.cpp > CMakeFiles/Programas.dir/48_hanlde_errors.cpp.i
-
-CMakeFiles/Programas.dir/48_hanlde_errors.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/48_hanlde_errors.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/48_hanlde_errors.cpp -o CMakeFiles/Programas.dir/48_hanlde_errors.cpp.s
-
-CMakeFiles/Programas.dir/files.cpp.o: CMakeFiles/Programas.dir/flags.make
-CMakeFiles/Programas.dir/files.cpp.o: ../files.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/Programas.dir/files.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/files.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/files.cpp
-
-CMakeFiles/Programas.dir/files.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/files.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/files.cpp > CMakeFiles/Programas.dir/files.cpp.i
-
-CMakeFiles/Programas.dir/files.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/files.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/files.cpp -o CMakeFiles/Programas.dir/files.cpp.s
+CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.cpp.o: CMakeFiles/Programas.dir/flags.make
+CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.cpp.o: /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.cpp
+
+CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.cpp > CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.cpp.i
+
+CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.cpp -o CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.cpp.s
+
+CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.cpp.o: CMakeFiles/Programas.dir/flags.make
+CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.cpp.o: /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.cpp
+
+CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.cpp > CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.cpp.i
+
+CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.cpp -o CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.cpp.s
+
+CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.cpp.o: CMakeFiles/Programas.dir/flags.make
+CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.cpp.o: /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.cpp
+
+CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.cpp > CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.cpp.i
+
+CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.cpp -o CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.cpp.s
+
+CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.cpp.o: CMakeFiles/Programas.dir/flags.make
+CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.cpp.o: /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.cpp
+
+CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.cpp > CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.cpp.i
+
+CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.cpp -o CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.cpp.s
+
+CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.cpp.o: CMakeFiles/Programas.dir/flags.make
+CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.cpp.o: /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.cpp
+
+CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.cpp > CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.cpp.i
+
+CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.cpp -o CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.cpp.s
+
+CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.cpp.o: CMakeFiles/Programas.dir/flags.make
+CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.cpp.o: /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.cpp
+
+CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.cpp > CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.cpp.i
+
+CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.cpp -o CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.cpp.s
+
+CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.cpp.o: CMakeFiles/Programas.dir/flags.make
+CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.cpp.o: /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.cpp
+
+CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.cpp > CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.cpp.i
+
+CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.cpp -o CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.cpp.s
+
+CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.cpp.o: CMakeFiles/Programas.dir/flags.make
+CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.cpp.o: /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.cpp.o -c /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.cpp
+
+CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.cpp.i"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.cpp > CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.cpp.i
+
+CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.cpp.s"
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.cpp -o CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.cpp.s
 
 # Object files for target Programas
 Programas_OBJECTS = \
-"CMakeFiles/Programas.dir/1_holaMundo.cpp.o" \
-"CMakeFiles/Programas.dir/2_variables_y_tipos_de_dato.cpp.o" \
-"CMakeFiles/Programas.dir/3_entradas_y_salidas.cpp.o" \
-"CMakeFiles/Programas.dir/4_operadores.cpp.o" \
-"CMakeFiles/Programas.dir/5_condicionales.cpp.o" \
-"CMakeFiles/Programas.dir/6_bucles.cpp.o" \
-"CMakeFiles/Programas.dir/7_arrays.cpp.o" \
-"CMakeFiles/Programas.dir/8_arrays_loops.cpp.o" \
-"CMakeFiles/Programas.dir/9_matrices.cpp.o" \
-"CMakeFiles/Programas.dir/10_punteros.cpp.o" \
-"CMakeFiles/Programas.dir/11_operaciones_punteros.cpp.o" \
-"CMakeFiles/Programas.dir/12_memoria.cpp.o" \
-"CMakeFiles/Programas.dir/13_operador_sizeof.cpp.o" \
-"CMakeFiles/Programas.dir/14_funciones.cpp.o" \
-"CMakeFiles/Programas.dir/15_prototipos.cpp.o" \
-"CMakeFiles/Programas.dir/16_parametros.cpp.o" \
-"CMakeFiles/Programas.dir/17_parametros_multiples.cpp.o" \
-"CMakeFiles/Programas.dir/18_random.cpp.o" \
-"CMakeFiles/Programas.dir/19_srandom.cpp.o" \
-"CMakeFiles/Programas.dir/20_truly_randoms.cpp.o" \
-"CMakeFiles/Programas.dir/21_parametos_inicializados.cpp.o" \
-"CMakeFiles/Programas.dir/22_overloading.cpp.o" \
-"CMakeFiles/Programas.dir/23_recursividad.cpp.o" \
-"CMakeFiles/Programas.dir/24_arrays_functions.cpp.o" \
-"CMakeFiles/Programas.dir/25_funciones_refers.cpp.o" \
-"CMakeFiles/Programas.dir/26_classes.cpp.o" \
-"CMakeFiles/Programas.dir/27_identificador_acceso.cpp.o" \
-"CMakeFiles/Programas.dir/28_metodos_publicos.cpp.o" \
-"CMakeFiles/Programas.dir/29_contructores.cpp.o" \
-"CMakeFiles/Programas.dir/30_contructor_iniciado.cpp.o" \
-"CMakeFiles/Programas.dir/31_clases_separadas.cpp.o" \
-"CMakeFiles/Programas.dir/MyClass.cpp.o" \
-"CMakeFiles/Programas.dir/32_destructor.cpp.o" \
-"CMakeFiles/Programas.dir/Selectores.cpp.o" \
-"CMakeFiles/Programas.dir/33_objeto_memoria.cpp.o" \
-"CMakeFiles/Programas.dir/Constantes.cpp.o" \
-"CMakeFiles/Programas.dir/Miembros.cpp.o" \
-"CMakeFiles/Programas.dir/34_composition.cpp.o" \
-"CMakeFiles/Programas.dir/35_friend_function.cpp.o" \
-"CMakeFiles/Programas.dir/36_this.cpp.o" \
-"CMakeFiles/Programas.dir/37_overload.cpp.o" \
-"CMakeFiles/Programas.dir/38_herencia.cpp.o" \
-"CMakeFiles/Programas.dir/39_herencia_contructores.cpp.o" \
-"CMakeFiles/Programas.dir/40_polimorfismo.cpp.o" \
-"CMakeFiles/Programas.dir/41_funcion_virtual.cpp.o" \
-"CMakeFiles/Programas.dir/42_funcion_virtual_pura.cpp.o" \
-"CMakeFiles/Programas.dir/43_templates.cpp.o" \
-"CMakeFiles/Programas.dir/44_templates_multiple.cpp.o" \
-"CMakeFiles/Programas.dir/45_template_class.cpp.o" \
-"CMakeFiles/Programas.dir/46_template_specialization.cpp.o" \
-"CMakeFiles/Programas.dir/47_try_catch.cpp.o" \
-"CMakeFiles/Programas.dir/48_hanlde_errors.cpp.o" \
-"CMakeFiles/Programas.dir/files.cpp.o"
+"CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.cpp.o" \
+"CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.cpp.o" \
+"CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.cpp.o" \
+"CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.cpp.o" \
+"CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.cpp.o" \
+"CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.cpp.o" \
+"CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.cpp.o" \
+"CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.cpp.o"
 
 # External object files for target Programas
 Programas_EXTERNAL_OBJECTS =
 
-Programas.exe: CMakeFiles/Programas.dir/1_holaMundo.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/2_variables_y_tipos_de_dato.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/3_entradas_y_salidas.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/4_operadores.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/5_condicionales.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/6_bucles.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/7_arrays.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/8_arrays_loops.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/9_matrices.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/10_punteros.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/11_operaciones_punteros.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/12_memoria.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/13_operador_sizeof.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/14_funciones.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/15_prototipos.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/16_parametros.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/17_parametros_multiples.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/18_random.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/19_srandom.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/20_truly_randoms.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/21_parametos_inicializados.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/22_overloading.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/23_recursividad.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/24_arrays_functions.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/25_funciones_refers.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/26_classes.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/27_identificador_acceso.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/28_metodos_publicos.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/29_contructores.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/30_contructor_iniciado.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/31_clases_separadas.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/MyClass.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/32_destructor.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/Selectores.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/33_objeto_memoria.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/Constantes.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/Miembros.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/34_composition.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/35_friend_function.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/36_this.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/37_overload.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/38_herencia.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/39_herencia_contructores.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/40_polimorfismo.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/41_funcion_virtual.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/42_funcion_virtual_pura.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/43_templates.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/44_templates_multiple.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/45_template_class.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/46_template_specialization.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/47_try_catch.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/48_hanlde_errors.cpp.o
-Programas.exe: CMakeFiles/Programas.dir/files.cpp.o
+Programas.exe: CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.cpp.o
+Programas.exe: CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.cpp.o
+Programas.exe: CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.cpp.o
+Programas.exe: CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.cpp.o
+Programas.exe: CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.cpp.o
+Programas.exe: CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.cpp.o
+Programas.exe: CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.cpp.o
+Programas.exe: CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.cpp.o
 Programas.exe: CMakeFiles/Programas.dir/build.make
 Programas.exe: CMakeFiles/Programas.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Linking CXX executable Programas.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable Programas.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Programas.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -123,1436 +123,221 @@ Programas/fast:
 	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/build
 .PHONY : Programas/fast
 
-10_punteros.o: 10_punteros.cpp.o
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.o: cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.cpp.o
 
-.PHONY : 10_punteros.o
-
-# target to build an object file
-10_punteros.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/10_punteros.cpp.o
-.PHONY : 10_punteros.cpp.o
-
-10_punteros.i: 10_punteros.cpp.i
-
-.PHONY : 10_punteros.i
-
-# target to preprocess a source file
-10_punteros.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/10_punteros.cpp.i
-.PHONY : 10_punteros.cpp.i
-
-10_punteros.s: 10_punteros.cpp.s
-
-.PHONY : 10_punteros.s
-
-# target to generate assembly for a file
-10_punteros.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/10_punteros.cpp.s
-.PHONY : 10_punteros.cpp.s
-
-11_operaciones_punteros.o: 11_operaciones_punteros.cpp.o
-
-.PHONY : 11_operaciones_punteros.o
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.o
 
 # target to build an object file
-11_operaciones_punteros.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/11_operaciones_punteros.cpp.o
-.PHONY : 11_operaciones_punteros.cpp.o
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.cpp.o:
+	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.cpp.o
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.cpp.o
 
-11_operaciones_punteros.i: 11_operaciones_punteros.cpp.i
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.i: cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.cpp.i
 
-.PHONY : 11_operaciones_punteros.i
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.i
 
 # target to preprocess a source file
-11_operaciones_punteros.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/11_operaciones_punteros.cpp.i
-.PHONY : 11_operaciones_punteros.cpp.i
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.cpp.i:
+	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.cpp.i
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.cpp.i
 
-11_operaciones_punteros.s: 11_operaciones_punteros.cpp.s
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.s: cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.cpp.s
 
-.PHONY : 11_operaciones_punteros.s
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.s
 
 # target to generate assembly for a file
-11_operaciones_punteros.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/11_operaciones_punteros.cpp.s
-.PHONY : 11_operaciones_punteros.cpp.s
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.cpp.s:
+	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.cpp.s
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.cpp.s
 
-12_memoria.o: 12_memoria.cpp.o
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.o: cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.cpp.o
 
-.PHONY : 12_memoria.o
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.o
 
 # target to build an object file
-12_memoria.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/12_memoria.cpp.o
-.PHONY : 12_memoria.cpp.o
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.cpp.o:
+	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.cpp.o
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.cpp.o
 
-12_memoria.i: 12_memoria.cpp.i
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.i: cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.cpp.i
 
-.PHONY : 12_memoria.i
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.i
 
 # target to preprocess a source file
-12_memoria.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/12_memoria.cpp.i
-.PHONY : 12_memoria.cpp.i
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.cpp.i:
+	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.cpp.i
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.cpp.i
 
-12_memoria.s: 12_memoria.cpp.s
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.s: cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.cpp.s
 
-.PHONY : 12_memoria.s
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.s
 
 # target to generate assembly for a file
-12_memoria.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/12_memoria.cpp.s
-.PHONY : 12_memoria.cpp.s
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.cpp.s:
+	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.cpp.s
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.cpp.s
 
-13_operador_sizeof.o: 13_operador_sizeof.cpp.o
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.o: cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.cpp.o
 
-.PHONY : 13_operador_sizeof.o
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.o
 
 # target to build an object file
-13_operador_sizeof.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/13_operador_sizeof.cpp.o
-.PHONY : 13_operador_sizeof.cpp.o
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.cpp.o:
+	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.cpp.o
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.cpp.o
 
-13_operador_sizeof.i: 13_operador_sizeof.cpp.i
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.i: cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.cpp.i
 
-.PHONY : 13_operador_sizeof.i
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.i
 
 # target to preprocess a source file
-13_operador_sizeof.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/13_operador_sizeof.cpp.i
-.PHONY : 13_operador_sizeof.cpp.i
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.cpp.i:
+	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.cpp.i
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.cpp.i
 
-13_operador_sizeof.s: 13_operador_sizeof.cpp.s
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.s: cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.cpp.s
 
-.PHONY : 13_operador_sizeof.s
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.s
 
 # target to generate assembly for a file
-13_operador_sizeof.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/13_operador_sizeof.cpp.s
-.PHONY : 13_operador_sizeof.cpp.s
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.cpp.s:
+	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.cpp.s
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.cpp.s
 
-14_funciones.o: 14_funciones.cpp.o
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.o: cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.cpp.o
 
-.PHONY : 14_funciones.o
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.o
 
 # target to build an object file
-14_funciones.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/14_funciones.cpp.o
-.PHONY : 14_funciones.cpp.o
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.cpp.o:
+	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.cpp.o
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.cpp.o
 
-14_funciones.i: 14_funciones.cpp.i
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.i: cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.cpp.i
 
-.PHONY : 14_funciones.i
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.i
 
 # target to preprocess a source file
-14_funciones.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/14_funciones.cpp.i
-.PHONY : 14_funciones.cpp.i
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.cpp.i:
+	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.cpp.i
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.cpp.i
 
-14_funciones.s: 14_funciones.cpp.s
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.s: cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.cpp.s
 
-.PHONY : 14_funciones.s
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.s
 
 # target to generate assembly for a file
-14_funciones.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/14_funciones.cpp.s
-.PHONY : 14_funciones.cpp.s
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.cpp.s:
+	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.cpp.s
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.cpp.s
 
-15_prototipos.o: 15_prototipos.cpp.o
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.o: cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.cpp.o
 
-.PHONY : 15_prototipos.o
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.o
 
 # target to build an object file
-15_prototipos.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/15_prototipos.cpp.o
-.PHONY : 15_prototipos.cpp.o
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.cpp.o:
+	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.cpp.o
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.cpp.o
 
-15_prototipos.i: 15_prototipos.cpp.i
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.i: cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.cpp.i
 
-.PHONY : 15_prototipos.i
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.i
 
 # target to preprocess a source file
-15_prototipos.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/15_prototipos.cpp.i
-.PHONY : 15_prototipos.cpp.i
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.cpp.i:
+	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.cpp.i
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.cpp.i
 
-15_prototipos.s: 15_prototipos.cpp.s
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.s: cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.cpp.s
 
-.PHONY : 15_prototipos.s
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.s
 
 # target to generate assembly for a file
-15_prototipos.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/15_prototipos.cpp.s
-.PHONY : 15_prototipos.cpp.s
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.cpp.s:
+	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.cpp.s
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.cpp.s
 
-16_parametros.o: 16_parametros.cpp.o
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.o: cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.cpp.o
 
-.PHONY : 16_parametros.o
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.o
 
 # target to build an object file
-16_parametros.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/16_parametros.cpp.o
-.PHONY : 16_parametros.cpp.o
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.cpp.o:
+	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.cpp.o
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.cpp.o
 
-16_parametros.i: 16_parametros.cpp.i
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.i: cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.cpp.i
 
-.PHONY : 16_parametros.i
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.i
 
 # target to preprocess a source file
-16_parametros.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/16_parametros.cpp.i
-.PHONY : 16_parametros.cpp.i
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.cpp.i:
+	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.cpp.i
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.cpp.i
 
-16_parametros.s: 16_parametros.cpp.s
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.s: cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.cpp.s
 
-.PHONY : 16_parametros.s
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.s
 
 # target to generate assembly for a file
-16_parametros.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/16_parametros.cpp.s
-.PHONY : 16_parametros.cpp.s
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.cpp.s:
+	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.cpp.s
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.cpp.s
 
-17_parametros_multiples.o: 17_parametros_multiples.cpp.o
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.o: cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.cpp.o
 
-.PHONY : 17_parametros_multiples.o
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.o
 
 # target to build an object file
-17_parametros_multiples.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/17_parametros_multiples.cpp.o
-.PHONY : 17_parametros_multiples.cpp.o
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.cpp.o:
+	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.cpp.o
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.cpp.o
 
-17_parametros_multiples.i: 17_parametros_multiples.cpp.i
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.i: cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.cpp.i
 
-.PHONY : 17_parametros_multiples.i
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.i
 
 # target to preprocess a source file
-17_parametros_multiples.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/17_parametros_multiples.cpp.i
-.PHONY : 17_parametros_multiples.cpp.i
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.cpp.i:
+	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.cpp.i
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.cpp.i
 
-17_parametros_multiples.s: 17_parametros_multiples.cpp.s
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.s: cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.cpp.s
 
-.PHONY : 17_parametros_multiples.s
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.s
 
 # target to generate assembly for a file
-17_parametros_multiples.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/17_parametros_multiples.cpp.s
-.PHONY : 17_parametros_multiples.cpp.s
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.cpp.s:
+	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.cpp.s
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.cpp.s
 
-18_random.o: 18_random.cpp.o
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.o: cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.cpp.o
 
-.PHONY : 18_random.o
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.o
 
 # target to build an object file
-18_random.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/18_random.cpp.o
-.PHONY : 18_random.cpp.o
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.cpp.o:
+	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.cpp.o
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.cpp.o
 
-18_random.i: 18_random.cpp.i
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.i: cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.cpp.i
 
-.PHONY : 18_random.i
-
-# target to preprocess a source file
-18_random.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/18_random.cpp.i
-.PHONY : 18_random.cpp.i
-
-18_random.s: 18_random.cpp.s
-
-.PHONY : 18_random.s
-
-# target to generate assembly for a file
-18_random.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/18_random.cpp.s
-.PHONY : 18_random.cpp.s
-
-19_srandom.o: 19_srandom.cpp.o
-
-.PHONY : 19_srandom.o
-
-# target to build an object file
-19_srandom.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/19_srandom.cpp.o
-.PHONY : 19_srandom.cpp.o
-
-19_srandom.i: 19_srandom.cpp.i
-
-.PHONY : 19_srandom.i
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.i
 
 # target to preprocess a source file
-19_srandom.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/19_srandom.cpp.i
-.PHONY : 19_srandom.cpp.i
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.cpp.i:
+	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.cpp.i
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.cpp.i
 
-19_srandom.s: 19_srandom.cpp.s
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.s: cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.cpp.s
 
-.PHONY : 19_srandom.s
-
-# target to generate assembly for a file
-19_srandom.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/19_srandom.cpp.s
-.PHONY : 19_srandom.cpp.s
-
-1_holaMundo.o: 1_holaMundo.cpp.o
-
-.PHONY : 1_holaMundo.o
-
-# target to build an object file
-1_holaMundo.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/1_holaMundo.cpp.o
-.PHONY : 1_holaMundo.cpp.o
-
-1_holaMundo.i: 1_holaMundo.cpp.i
-
-.PHONY : 1_holaMundo.i
-
-# target to preprocess a source file
-1_holaMundo.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/1_holaMundo.cpp.i
-.PHONY : 1_holaMundo.cpp.i
-
-1_holaMundo.s: 1_holaMundo.cpp.s
-
-.PHONY : 1_holaMundo.s
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.s
 
 # target to generate assembly for a file
-1_holaMundo.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/1_holaMundo.cpp.s
-.PHONY : 1_holaMundo.cpp.s
-
-20_truly_randoms.o: 20_truly_randoms.cpp.o
-
-.PHONY : 20_truly_randoms.o
-
-# target to build an object file
-20_truly_randoms.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/20_truly_randoms.cpp.o
-.PHONY : 20_truly_randoms.cpp.o
-
-20_truly_randoms.i: 20_truly_randoms.cpp.i
-
-.PHONY : 20_truly_randoms.i
-
-# target to preprocess a source file
-20_truly_randoms.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/20_truly_randoms.cpp.i
-.PHONY : 20_truly_randoms.cpp.i
-
-20_truly_randoms.s: 20_truly_randoms.cpp.s
-
-.PHONY : 20_truly_randoms.s
-
-# target to generate assembly for a file
-20_truly_randoms.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/20_truly_randoms.cpp.s
-.PHONY : 20_truly_randoms.cpp.s
-
-21_parametos_inicializados.o: 21_parametos_inicializados.cpp.o
-
-.PHONY : 21_parametos_inicializados.o
-
-# target to build an object file
-21_parametos_inicializados.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/21_parametos_inicializados.cpp.o
-.PHONY : 21_parametos_inicializados.cpp.o
-
-21_parametos_inicializados.i: 21_parametos_inicializados.cpp.i
-
-.PHONY : 21_parametos_inicializados.i
-
-# target to preprocess a source file
-21_parametos_inicializados.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/21_parametos_inicializados.cpp.i
-.PHONY : 21_parametos_inicializados.cpp.i
-
-21_parametos_inicializados.s: 21_parametos_inicializados.cpp.s
-
-.PHONY : 21_parametos_inicializados.s
-
-# target to generate assembly for a file
-21_parametos_inicializados.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/21_parametos_inicializados.cpp.s
-.PHONY : 21_parametos_inicializados.cpp.s
-
-22_overloading.o: 22_overloading.cpp.o
-
-.PHONY : 22_overloading.o
-
-# target to build an object file
-22_overloading.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/22_overloading.cpp.o
-.PHONY : 22_overloading.cpp.o
-
-22_overloading.i: 22_overloading.cpp.i
-
-.PHONY : 22_overloading.i
-
-# target to preprocess a source file
-22_overloading.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/22_overloading.cpp.i
-.PHONY : 22_overloading.cpp.i
-
-22_overloading.s: 22_overloading.cpp.s
-
-.PHONY : 22_overloading.s
-
-# target to generate assembly for a file
-22_overloading.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/22_overloading.cpp.s
-.PHONY : 22_overloading.cpp.s
-
-23_recursividad.o: 23_recursividad.cpp.o
-
-.PHONY : 23_recursividad.o
-
-# target to build an object file
-23_recursividad.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/23_recursividad.cpp.o
-.PHONY : 23_recursividad.cpp.o
-
-23_recursividad.i: 23_recursividad.cpp.i
-
-.PHONY : 23_recursividad.i
-
-# target to preprocess a source file
-23_recursividad.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/23_recursividad.cpp.i
-.PHONY : 23_recursividad.cpp.i
-
-23_recursividad.s: 23_recursividad.cpp.s
-
-.PHONY : 23_recursividad.s
-
-# target to generate assembly for a file
-23_recursividad.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/23_recursividad.cpp.s
-.PHONY : 23_recursividad.cpp.s
-
-24_arrays_functions.o: 24_arrays_functions.cpp.o
-
-.PHONY : 24_arrays_functions.o
-
-# target to build an object file
-24_arrays_functions.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/24_arrays_functions.cpp.o
-.PHONY : 24_arrays_functions.cpp.o
-
-24_arrays_functions.i: 24_arrays_functions.cpp.i
-
-.PHONY : 24_arrays_functions.i
-
-# target to preprocess a source file
-24_arrays_functions.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/24_arrays_functions.cpp.i
-.PHONY : 24_arrays_functions.cpp.i
-
-24_arrays_functions.s: 24_arrays_functions.cpp.s
-
-.PHONY : 24_arrays_functions.s
-
-# target to generate assembly for a file
-24_arrays_functions.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/24_arrays_functions.cpp.s
-.PHONY : 24_arrays_functions.cpp.s
-
-25_funciones_refers.o: 25_funciones_refers.cpp.o
-
-.PHONY : 25_funciones_refers.o
-
-# target to build an object file
-25_funciones_refers.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/25_funciones_refers.cpp.o
-.PHONY : 25_funciones_refers.cpp.o
-
-25_funciones_refers.i: 25_funciones_refers.cpp.i
-
-.PHONY : 25_funciones_refers.i
-
-# target to preprocess a source file
-25_funciones_refers.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/25_funciones_refers.cpp.i
-.PHONY : 25_funciones_refers.cpp.i
-
-25_funciones_refers.s: 25_funciones_refers.cpp.s
-
-.PHONY : 25_funciones_refers.s
-
-# target to generate assembly for a file
-25_funciones_refers.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/25_funciones_refers.cpp.s
-.PHONY : 25_funciones_refers.cpp.s
-
-26_classes.o: 26_classes.cpp.o
-
-.PHONY : 26_classes.o
-
-# target to build an object file
-26_classes.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/26_classes.cpp.o
-.PHONY : 26_classes.cpp.o
-
-26_classes.i: 26_classes.cpp.i
-
-.PHONY : 26_classes.i
-
-# target to preprocess a source file
-26_classes.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/26_classes.cpp.i
-.PHONY : 26_classes.cpp.i
-
-26_classes.s: 26_classes.cpp.s
-
-.PHONY : 26_classes.s
-
-# target to generate assembly for a file
-26_classes.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/26_classes.cpp.s
-.PHONY : 26_classes.cpp.s
-
-27_identificador_acceso.o: 27_identificador_acceso.cpp.o
-
-.PHONY : 27_identificador_acceso.o
-
-# target to build an object file
-27_identificador_acceso.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/27_identificador_acceso.cpp.o
-.PHONY : 27_identificador_acceso.cpp.o
-
-27_identificador_acceso.i: 27_identificador_acceso.cpp.i
-
-.PHONY : 27_identificador_acceso.i
-
-# target to preprocess a source file
-27_identificador_acceso.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/27_identificador_acceso.cpp.i
-.PHONY : 27_identificador_acceso.cpp.i
-
-27_identificador_acceso.s: 27_identificador_acceso.cpp.s
-
-.PHONY : 27_identificador_acceso.s
-
-# target to generate assembly for a file
-27_identificador_acceso.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/27_identificador_acceso.cpp.s
-.PHONY : 27_identificador_acceso.cpp.s
-
-28_metodos_publicos.o: 28_metodos_publicos.cpp.o
-
-.PHONY : 28_metodos_publicos.o
-
-# target to build an object file
-28_metodos_publicos.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/28_metodos_publicos.cpp.o
-.PHONY : 28_metodos_publicos.cpp.o
-
-28_metodos_publicos.i: 28_metodos_publicos.cpp.i
-
-.PHONY : 28_metodos_publicos.i
-
-# target to preprocess a source file
-28_metodos_publicos.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/28_metodos_publicos.cpp.i
-.PHONY : 28_metodos_publicos.cpp.i
-
-28_metodos_publicos.s: 28_metodos_publicos.cpp.s
-
-.PHONY : 28_metodos_publicos.s
-
-# target to generate assembly for a file
-28_metodos_publicos.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/28_metodos_publicos.cpp.s
-.PHONY : 28_metodos_publicos.cpp.s
-
-29_contructores.o: 29_contructores.cpp.o
-
-.PHONY : 29_contructores.o
-
-# target to build an object file
-29_contructores.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/29_contructores.cpp.o
-.PHONY : 29_contructores.cpp.o
-
-29_contructores.i: 29_contructores.cpp.i
-
-.PHONY : 29_contructores.i
-
-# target to preprocess a source file
-29_contructores.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/29_contructores.cpp.i
-.PHONY : 29_contructores.cpp.i
-
-29_contructores.s: 29_contructores.cpp.s
-
-.PHONY : 29_contructores.s
-
-# target to generate assembly for a file
-29_contructores.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/29_contructores.cpp.s
-.PHONY : 29_contructores.cpp.s
-
-2_variables_y_tipos_de_dato.o: 2_variables_y_tipos_de_dato.cpp.o
-
-.PHONY : 2_variables_y_tipos_de_dato.o
-
-# target to build an object file
-2_variables_y_tipos_de_dato.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/2_variables_y_tipos_de_dato.cpp.o
-.PHONY : 2_variables_y_tipos_de_dato.cpp.o
-
-2_variables_y_tipos_de_dato.i: 2_variables_y_tipos_de_dato.cpp.i
-
-.PHONY : 2_variables_y_tipos_de_dato.i
-
-# target to preprocess a source file
-2_variables_y_tipos_de_dato.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/2_variables_y_tipos_de_dato.cpp.i
-.PHONY : 2_variables_y_tipos_de_dato.cpp.i
-
-2_variables_y_tipos_de_dato.s: 2_variables_y_tipos_de_dato.cpp.s
-
-.PHONY : 2_variables_y_tipos_de_dato.s
-
-# target to generate assembly for a file
-2_variables_y_tipos_de_dato.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/2_variables_y_tipos_de_dato.cpp.s
-.PHONY : 2_variables_y_tipos_de_dato.cpp.s
-
-30_contructor_iniciado.o: 30_contructor_iniciado.cpp.o
-
-.PHONY : 30_contructor_iniciado.o
-
-# target to build an object file
-30_contructor_iniciado.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/30_contructor_iniciado.cpp.o
-.PHONY : 30_contructor_iniciado.cpp.o
-
-30_contructor_iniciado.i: 30_contructor_iniciado.cpp.i
-
-.PHONY : 30_contructor_iniciado.i
-
-# target to preprocess a source file
-30_contructor_iniciado.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/30_contructor_iniciado.cpp.i
-.PHONY : 30_contructor_iniciado.cpp.i
-
-30_contructor_iniciado.s: 30_contructor_iniciado.cpp.s
-
-.PHONY : 30_contructor_iniciado.s
-
-# target to generate assembly for a file
-30_contructor_iniciado.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/30_contructor_iniciado.cpp.s
-.PHONY : 30_contructor_iniciado.cpp.s
-
-31_clases_separadas.o: 31_clases_separadas.cpp.o
-
-.PHONY : 31_clases_separadas.o
-
-# target to build an object file
-31_clases_separadas.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/31_clases_separadas.cpp.o
-.PHONY : 31_clases_separadas.cpp.o
-
-31_clases_separadas.i: 31_clases_separadas.cpp.i
-
-.PHONY : 31_clases_separadas.i
-
-# target to preprocess a source file
-31_clases_separadas.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/31_clases_separadas.cpp.i
-.PHONY : 31_clases_separadas.cpp.i
-
-31_clases_separadas.s: 31_clases_separadas.cpp.s
-
-.PHONY : 31_clases_separadas.s
-
-# target to generate assembly for a file
-31_clases_separadas.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/31_clases_separadas.cpp.s
-.PHONY : 31_clases_separadas.cpp.s
-
-32_destructor.o: 32_destructor.cpp.o
-
-.PHONY : 32_destructor.o
-
-# target to build an object file
-32_destructor.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/32_destructor.cpp.o
-.PHONY : 32_destructor.cpp.o
-
-32_destructor.i: 32_destructor.cpp.i
-
-.PHONY : 32_destructor.i
-
-# target to preprocess a source file
-32_destructor.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/32_destructor.cpp.i
-.PHONY : 32_destructor.cpp.i
-
-32_destructor.s: 32_destructor.cpp.s
-
-.PHONY : 32_destructor.s
-
-# target to generate assembly for a file
-32_destructor.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/32_destructor.cpp.s
-.PHONY : 32_destructor.cpp.s
-
-33_objeto_memoria.o: 33_objeto_memoria.cpp.o
-
-.PHONY : 33_objeto_memoria.o
-
-# target to build an object file
-33_objeto_memoria.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/33_objeto_memoria.cpp.o
-.PHONY : 33_objeto_memoria.cpp.o
-
-33_objeto_memoria.i: 33_objeto_memoria.cpp.i
-
-.PHONY : 33_objeto_memoria.i
-
-# target to preprocess a source file
-33_objeto_memoria.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/33_objeto_memoria.cpp.i
-.PHONY : 33_objeto_memoria.cpp.i
-
-33_objeto_memoria.s: 33_objeto_memoria.cpp.s
-
-.PHONY : 33_objeto_memoria.s
-
-# target to generate assembly for a file
-33_objeto_memoria.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/33_objeto_memoria.cpp.s
-.PHONY : 33_objeto_memoria.cpp.s
-
-34_composition.o: 34_composition.cpp.o
-
-.PHONY : 34_composition.o
-
-# target to build an object file
-34_composition.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/34_composition.cpp.o
-.PHONY : 34_composition.cpp.o
-
-34_composition.i: 34_composition.cpp.i
-
-.PHONY : 34_composition.i
-
-# target to preprocess a source file
-34_composition.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/34_composition.cpp.i
-.PHONY : 34_composition.cpp.i
-
-34_composition.s: 34_composition.cpp.s
-
-.PHONY : 34_composition.s
-
-# target to generate assembly for a file
-34_composition.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/34_composition.cpp.s
-.PHONY : 34_composition.cpp.s
-
-35_friend_function.o: 35_friend_function.cpp.o
-
-.PHONY : 35_friend_function.o
-
-# target to build an object file
-35_friend_function.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/35_friend_function.cpp.o
-.PHONY : 35_friend_function.cpp.o
-
-35_friend_function.i: 35_friend_function.cpp.i
-
-.PHONY : 35_friend_function.i
-
-# target to preprocess a source file
-35_friend_function.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/35_friend_function.cpp.i
-.PHONY : 35_friend_function.cpp.i
-
-35_friend_function.s: 35_friend_function.cpp.s
-
-.PHONY : 35_friend_function.s
-
-# target to generate assembly for a file
-35_friend_function.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/35_friend_function.cpp.s
-.PHONY : 35_friend_function.cpp.s
-
-36_this.o: 36_this.cpp.o
-
-.PHONY : 36_this.o
-
-# target to build an object file
-36_this.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/36_this.cpp.o
-.PHONY : 36_this.cpp.o
-
-36_this.i: 36_this.cpp.i
-
-.PHONY : 36_this.i
-
-# target to preprocess a source file
-36_this.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/36_this.cpp.i
-.PHONY : 36_this.cpp.i
-
-36_this.s: 36_this.cpp.s
-
-.PHONY : 36_this.s
-
-# target to generate assembly for a file
-36_this.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/36_this.cpp.s
-.PHONY : 36_this.cpp.s
-
-37_overload.o: 37_overload.cpp.o
-
-.PHONY : 37_overload.o
-
-# target to build an object file
-37_overload.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/37_overload.cpp.o
-.PHONY : 37_overload.cpp.o
-
-37_overload.i: 37_overload.cpp.i
-
-.PHONY : 37_overload.i
-
-# target to preprocess a source file
-37_overload.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/37_overload.cpp.i
-.PHONY : 37_overload.cpp.i
-
-37_overload.s: 37_overload.cpp.s
-
-.PHONY : 37_overload.s
-
-# target to generate assembly for a file
-37_overload.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/37_overload.cpp.s
-.PHONY : 37_overload.cpp.s
-
-38_herencia.o: 38_herencia.cpp.o
-
-.PHONY : 38_herencia.o
-
-# target to build an object file
-38_herencia.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/38_herencia.cpp.o
-.PHONY : 38_herencia.cpp.o
-
-38_herencia.i: 38_herencia.cpp.i
-
-.PHONY : 38_herencia.i
-
-# target to preprocess a source file
-38_herencia.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/38_herencia.cpp.i
-.PHONY : 38_herencia.cpp.i
-
-38_herencia.s: 38_herencia.cpp.s
-
-.PHONY : 38_herencia.s
-
-# target to generate assembly for a file
-38_herencia.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/38_herencia.cpp.s
-.PHONY : 38_herencia.cpp.s
-
-39_herencia_contructores.o: 39_herencia_contructores.cpp.o
-
-.PHONY : 39_herencia_contructores.o
-
-# target to build an object file
-39_herencia_contructores.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/39_herencia_contructores.cpp.o
-.PHONY : 39_herencia_contructores.cpp.o
-
-39_herencia_contructores.i: 39_herencia_contructores.cpp.i
-
-.PHONY : 39_herencia_contructores.i
-
-# target to preprocess a source file
-39_herencia_contructores.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/39_herencia_contructores.cpp.i
-.PHONY : 39_herencia_contructores.cpp.i
-
-39_herencia_contructores.s: 39_herencia_contructores.cpp.s
-
-.PHONY : 39_herencia_contructores.s
-
-# target to generate assembly for a file
-39_herencia_contructores.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/39_herencia_contructores.cpp.s
-.PHONY : 39_herencia_contructores.cpp.s
-
-3_entradas_y_salidas.o: 3_entradas_y_salidas.cpp.o
-
-.PHONY : 3_entradas_y_salidas.o
-
-# target to build an object file
-3_entradas_y_salidas.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/3_entradas_y_salidas.cpp.o
-.PHONY : 3_entradas_y_salidas.cpp.o
-
-3_entradas_y_salidas.i: 3_entradas_y_salidas.cpp.i
-
-.PHONY : 3_entradas_y_salidas.i
-
-# target to preprocess a source file
-3_entradas_y_salidas.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/3_entradas_y_salidas.cpp.i
-.PHONY : 3_entradas_y_salidas.cpp.i
-
-3_entradas_y_salidas.s: 3_entradas_y_salidas.cpp.s
-
-.PHONY : 3_entradas_y_salidas.s
-
-# target to generate assembly for a file
-3_entradas_y_salidas.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/3_entradas_y_salidas.cpp.s
-.PHONY : 3_entradas_y_salidas.cpp.s
-
-40_polimorfismo.o: 40_polimorfismo.cpp.o
-
-.PHONY : 40_polimorfismo.o
-
-# target to build an object file
-40_polimorfismo.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/40_polimorfismo.cpp.o
-.PHONY : 40_polimorfismo.cpp.o
-
-40_polimorfismo.i: 40_polimorfismo.cpp.i
-
-.PHONY : 40_polimorfismo.i
-
-# target to preprocess a source file
-40_polimorfismo.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/40_polimorfismo.cpp.i
-.PHONY : 40_polimorfismo.cpp.i
-
-40_polimorfismo.s: 40_polimorfismo.cpp.s
-
-.PHONY : 40_polimorfismo.s
-
-# target to generate assembly for a file
-40_polimorfismo.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/40_polimorfismo.cpp.s
-.PHONY : 40_polimorfismo.cpp.s
-
-41_funcion_virtual.o: 41_funcion_virtual.cpp.o
-
-.PHONY : 41_funcion_virtual.o
-
-# target to build an object file
-41_funcion_virtual.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/41_funcion_virtual.cpp.o
-.PHONY : 41_funcion_virtual.cpp.o
-
-41_funcion_virtual.i: 41_funcion_virtual.cpp.i
-
-.PHONY : 41_funcion_virtual.i
-
-# target to preprocess a source file
-41_funcion_virtual.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/41_funcion_virtual.cpp.i
-.PHONY : 41_funcion_virtual.cpp.i
-
-41_funcion_virtual.s: 41_funcion_virtual.cpp.s
-
-.PHONY : 41_funcion_virtual.s
-
-# target to generate assembly for a file
-41_funcion_virtual.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/41_funcion_virtual.cpp.s
-.PHONY : 41_funcion_virtual.cpp.s
-
-42_funcion_virtual_pura.o: 42_funcion_virtual_pura.cpp.o
-
-.PHONY : 42_funcion_virtual_pura.o
-
-# target to build an object file
-42_funcion_virtual_pura.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/42_funcion_virtual_pura.cpp.o
-.PHONY : 42_funcion_virtual_pura.cpp.o
-
-42_funcion_virtual_pura.i: 42_funcion_virtual_pura.cpp.i
-
-.PHONY : 42_funcion_virtual_pura.i
-
-# target to preprocess a source file
-42_funcion_virtual_pura.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/42_funcion_virtual_pura.cpp.i
-.PHONY : 42_funcion_virtual_pura.cpp.i
-
-42_funcion_virtual_pura.s: 42_funcion_virtual_pura.cpp.s
-
-.PHONY : 42_funcion_virtual_pura.s
-
-# target to generate assembly for a file
-42_funcion_virtual_pura.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/42_funcion_virtual_pura.cpp.s
-.PHONY : 42_funcion_virtual_pura.cpp.s
-
-43_templates.o: 43_templates.cpp.o
-
-.PHONY : 43_templates.o
-
-# target to build an object file
-43_templates.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/43_templates.cpp.o
-.PHONY : 43_templates.cpp.o
-
-43_templates.i: 43_templates.cpp.i
-
-.PHONY : 43_templates.i
-
-# target to preprocess a source file
-43_templates.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/43_templates.cpp.i
-.PHONY : 43_templates.cpp.i
-
-43_templates.s: 43_templates.cpp.s
-
-.PHONY : 43_templates.s
-
-# target to generate assembly for a file
-43_templates.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/43_templates.cpp.s
-.PHONY : 43_templates.cpp.s
-
-44_templates_multiple.o: 44_templates_multiple.cpp.o
-
-.PHONY : 44_templates_multiple.o
-
-# target to build an object file
-44_templates_multiple.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/44_templates_multiple.cpp.o
-.PHONY : 44_templates_multiple.cpp.o
-
-44_templates_multiple.i: 44_templates_multiple.cpp.i
-
-.PHONY : 44_templates_multiple.i
-
-# target to preprocess a source file
-44_templates_multiple.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/44_templates_multiple.cpp.i
-.PHONY : 44_templates_multiple.cpp.i
-
-44_templates_multiple.s: 44_templates_multiple.cpp.s
-
-.PHONY : 44_templates_multiple.s
-
-# target to generate assembly for a file
-44_templates_multiple.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/44_templates_multiple.cpp.s
-.PHONY : 44_templates_multiple.cpp.s
-
-45_template_class.o: 45_template_class.cpp.o
-
-.PHONY : 45_template_class.o
-
-# target to build an object file
-45_template_class.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/45_template_class.cpp.o
-.PHONY : 45_template_class.cpp.o
-
-45_template_class.i: 45_template_class.cpp.i
-
-.PHONY : 45_template_class.i
-
-# target to preprocess a source file
-45_template_class.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/45_template_class.cpp.i
-.PHONY : 45_template_class.cpp.i
-
-45_template_class.s: 45_template_class.cpp.s
-
-.PHONY : 45_template_class.s
-
-# target to generate assembly for a file
-45_template_class.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/45_template_class.cpp.s
-.PHONY : 45_template_class.cpp.s
-
-46_template_specialization.o: 46_template_specialization.cpp.o
-
-.PHONY : 46_template_specialization.o
-
-# target to build an object file
-46_template_specialization.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/46_template_specialization.cpp.o
-.PHONY : 46_template_specialization.cpp.o
-
-46_template_specialization.i: 46_template_specialization.cpp.i
-
-.PHONY : 46_template_specialization.i
-
-# target to preprocess a source file
-46_template_specialization.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/46_template_specialization.cpp.i
-.PHONY : 46_template_specialization.cpp.i
-
-46_template_specialization.s: 46_template_specialization.cpp.s
-
-.PHONY : 46_template_specialization.s
-
-# target to generate assembly for a file
-46_template_specialization.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/46_template_specialization.cpp.s
-.PHONY : 46_template_specialization.cpp.s
-
-47_try_catch.o: 47_try_catch.cpp.o
-
-.PHONY : 47_try_catch.o
-
-# target to build an object file
-47_try_catch.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/47_try_catch.cpp.o
-.PHONY : 47_try_catch.cpp.o
-
-47_try_catch.i: 47_try_catch.cpp.i
-
-.PHONY : 47_try_catch.i
-
-# target to preprocess a source file
-47_try_catch.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/47_try_catch.cpp.i
-.PHONY : 47_try_catch.cpp.i
-
-47_try_catch.s: 47_try_catch.cpp.s
-
-.PHONY : 47_try_catch.s
-
-# target to generate assembly for a file
-47_try_catch.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/47_try_catch.cpp.s
-.PHONY : 47_try_catch.cpp.s
-
-48_hanlde_errors.o: 48_hanlde_errors.cpp.o
-
-.PHONY : 48_hanlde_errors.o
-
-# target to build an object file
-48_hanlde_errors.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/48_hanlde_errors.cpp.o
-.PHONY : 48_hanlde_errors.cpp.o
-
-48_hanlde_errors.i: 48_hanlde_errors.cpp.i
-
-.PHONY : 48_hanlde_errors.i
-
-# target to preprocess a source file
-48_hanlde_errors.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/48_hanlde_errors.cpp.i
-.PHONY : 48_hanlde_errors.cpp.i
-
-48_hanlde_errors.s: 48_hanlde_errors.cpp.s
-
-.PHONY : 48_hanlde_errors.s
-
-# target to generate assembly for a file
-48_hanlde_errors.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/48_hanlde_errors.cpp.s
-.PHONY : 48_hanlde_errors.cpp.s
-
-4_operadores.o: 4_operadores.cpp.o
-
-.PHONY : 4_operadores.o
-
-# target to build an object file
-4_operadores.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/4_operadores.cpp.o
-.PHONY : 4_operadores.cpp.o
-
-4_operadores.i: 4_operadores.cpp.i
-
-.PHONY : 4_operadores.i
-
-# target to preprocess a source file
-4_operadores.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/4_operadores.cpp.i
-.PHONY : 4_operadores.cpp.i
-
-4_operadores.s: 4_operadores.cpp.s
-
-.PHONY : 4_operadores.s
-
-# target to generate assembly for a file
-4_operadores.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/4_operadores.cpp.s
-.PHONY : 4_operadores.cpp.s
-
-5_condicionales.o: 5_condicionales.cpp.o
-
-.PHONY : 5_condicionales.o
-
-# target to build an object file
-5_condicionales.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/5_condicionales.cpp.o
-.PHONY : 5_condicionales.cpp.o
-
-5_condicionales.i: 5_condicionales.cpp.i
-
-.PHONY : 5_condicionales.i
-
-# target to preprocess a source file
-5_condicionales.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/5_condicionales.cpp.i
-.PHONY : 5_condicionales.cpp.i
-
-5_condicionales.s: 5_condicionales.cpp.s
-
-.PHONY : 5_condicionales.s
-
-# target to generate assembly for a file
-5_condicionales.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/5_condicionales.cpp.s
-.PHONY : 5_condicionales.cpp.s
-
-6_bucles.o: 6_bucles.cpp.o
-
-.PHONY : 6_bucles.o
-
-# target to build an object file
-6_bucles.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/6_bucles.cpp.o
-.PHONY : 6_bucles.cpp.o
-
-6_bucles.i: 6_bucles.cpp.i
-
-.PHONY : 6_bucles.i
-
-# target to preprocess a source file
-6_bucles.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/6_bucles.cpp.i
-.PHONY : 6_bucles.cpp.i
-
-6_bucles.s: 6_bucles.cpp.s
-
-.PHONY : 6_bucles.s
-
-# target to generate assembly for a file
-6_bucles.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/6_bucles.cpp.s
-.PHONY : 6_bucles.cpp.s
-
-7_arrays.o: 7_arrays.cpp.o
-
-.PHONY : 7_arrays.o
-
-# target to build an object file
-7_arrays.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/7_arrays.cpp.o
-.PHONY : 7_arrays.cpp.o
-
-7_arrays.i: 7_arrays.cpp.i
-
-.PHONY : 7_arrays.i
-
-# target to preprocess a source file
-7_arrays.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/7_arrays.cpp.i
-.PHONY : 7_arrays.cpp.i
-
-7_arrays.s: 7_arrays.cpp.s
-
-.PHONY : 7_arrays.s
-
-# target to generate assembly for a file
-7_arrays.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/7_arrays.cpp.s
-.PHONY : 7_arrays.cpp.s
-
-8_arrays_loops.o: 8_arrays_loops.cpp.o
-
-.PHONY : 8_arrays_loops.o
-
-# target to build an object file
-8_arrays_loops.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/8_arrays_loops.cpp.o
-.PHONY : 8_arrays_loops.cpp.o
-
-8_arrays_loops.i: 8_arrays_loops.cpp.i
-
-.PHONY : 8_arrays_loops.i
-
-# target to preprocess a source file
-8_arrays_loops.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/8_arrays_loops.cpp.i
-.PHONY : 8_arrays_loops.cpp.i
-
-8_arrays_loops.s: 8_arrays_loops.cpp.s
-
-.PHONY : 8_arrays_loops.s
-
-# target to generate assembly for a file
-8_arrays_loops.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/8_arrays_loops.cpp.s
-.PHONY : 8_arrays_loops.cpp.s
-
-9_matrices.o: 9_matrices.cpp.o
-
-.PHONY : 9_matrices.o
-
-# target to build an object file
-9_matrices.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/9_matrices.cpp.o
-.PHONY : 9_matrices.cpp.o
-
-9_matrices.i: 9_matrices.cpp.i
-
-.PHONY : 9_matrices.i
-
-# target to preprocess a source file
-9_matrices.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/9_matrices.cpp.i
-.PHONY : 9_matrices.cpp.i
-
-9_matrices.s: 9_matrices.cpp.s
-
-.PHONY : 9_matrices.s
-
-# target to generate assembly for a file
-9_matrices.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/9_matrices.cpp.s
-.PHONY : 9_matrices.cpp.s
-
-Constantes.o: Constantes.cpp.o
-
-.PHONY : Constantes.o
-
-# target to build an object file
-Constantes.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/Constantes.cpp.o
-.PHONY : Constantes.cpp.o
-
-Constantes.i: Constantes.cpp.i
-
-.PHONY : Constantes.i
-
-# target to preprocess a source file
-Constantes.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/Constantes.cpp.i
-.PHONY : Constantes.cpp.i
-
-Constantes.s: Constantes.cpp.s
-
-.PHONY : Constantes.s
-
-# target to generate assembly for a file
-Constantes.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/Constantes.cpp.s
-.PHONY : Constantes.cpp.s
-
-Miembros.o: Miembros.cpp.o
-
-.PHONY : Miembros.o
-
-# target to build an object file
-Miembros.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/Miembros.cpp.o
-.PHONY : Miembros.cpp.o
-
-Miembros.i: Miembros.cpp.i
-
-.PHONY : Miembros.i
-
-# target to preprocess a source file
-Miembros.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/Miembros.cpp.i
-.PHONY : Miembros.cpp.i
-
-Miembros.s: Miembros.cpp.s
-
-.PHONY : Miembros.s
-
-# target to generate assembly for a file
-Miembros.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/Miembros.cpp.s
-.PHONY : Miembros.cpp.s
-
-MyClass.o: MyClass.cpp.o
-
-.PHONY : MyClass.o
-
-# target to build an object file
-MyClass.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/MyClass.cpp.o
-.PHONY : MyClass.cpp.o
-
-MyClass.i: MyClass.cpp.i
-
-.PHONY : MyClass.i
-
-# target to preprocess a source file
-MyClass.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/MyClass.cpp.i
-.PHONY : MyClass.cpp.i
-
-MyClass.s: MyClass.cpp.s
-
-.PHONY : MyClass.s
-
-# target to generate assembly for a file
-MyClass.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/MyClass.cpp.s
-.PHONY : MyClass.cpp.s
-
-Selectores.o: Selectores.cpp.o
-
-.PHONY : Selectores.o
-
-# target to build an object file
-Selectores.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/Selectores.cpp.o
-.PHONY : Selectores.cpp.o
-
-Selectores.i: Selectores.cpp.i
-
-.PHONY : Selectores.i
-
-# target to preprocess a source file
-Selectores.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/Selectores.cpp.i
-.PHONY : Selectores.cpp.i
-
-Selectores.s: Selectores.cpp.s
-
-.PHONY : Selectores.s
-
-# target to generate assembly for a file
-Selectores.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/Selectores.cpp.s
-.PHONY : Selectores.cpp.s
-
-files.o: files.cpp.o
-
-.PHONY : files.o
-
-# target to build an object file
-files.cpp.o:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/files.cpp.o
-.PHONY : files.cpp.o
-
-files.i: files.cpp.i
-
-.PHONY : files.i
-
-# target to preprocess a source file
-files.cpp.i:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/files.cpp.i
-.PHONY : files.cpp.i
-
-files.s: files.cpp.s
-
-.PHONY : files.s
-
-# target to generate assembly for a file
-files.cpp.s:
-	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/files.cpp.s
-.PHONY : files.cpp.s
+cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.cpp.s:
+	$(MAKE) -f CMakeFiles/Programas.dir/build.make CMakeFiles/Programas.dir/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.cpp.s
+.PHONY : cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.cpp.s
 
 # Help Target
 help:
@@ -1563,165 +348,30 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Programas"
 	@echo "... edit_cache"
-	@echo "... 10_punteros.o"
-	@echo "... 10_punteros.i"
-	@echo "... 10_punteros.s"
-	@echo "... 11_operaciones_punteros.o"
-	@echo "... 11_operaciones_punteros.i"
-	@echo "... 11_operaciones_punteros.s"
-	@echo "... 12_memoria.o"
-	@echo "... 12_memoria.i"
-	@echo "... 12_memoria.s"
-	@echo "... 13_operador_sizeof.o"
-	@echo "... 13_operador_sizeof.i"
-	@echo "... 13_operador_sizeof.s"
-	@echo "... 14_funciones.o"
-	@echo "... 14_funciones.i"
-	@echo "... 14_funciones.s"
-	@echo "... 15_prototipos.o"
-	@echo "... 15_prototipos.i"
-	@echo "... 15_prototipos.s"
-	@echo "... 16_parametros.o"
-	@echo "... 16_parametros.i"
-	@echo "... 16_parametros.s"
-	@echo "... 17_parametros_multiples.o"
-	@echo "... 17_parametros_multiples.i"
-	@echo "... 17_parametros_multiples.s"
-	@echo "... 18_random.o"
-	@echo "... 18_random.i"
-	@echo "... 18_random.s"
-	@echo "... 19_srandom.o"
-	@echo "... 19_srandom.i"
-	@echo "... 19_srandom.s"
-	@echo "... 1_holaMundo.o"
-	@echo "... 1_holaMundo.i"
-	@echo "... 1_holaMundo.s"
-	@echo "... 20_truly_randoms.o"
-	@echo "... 20_truly_randoms.i"
-	@echo "... 20_truly_randoms.s"
-	@echo "... 21_parametos_inicializados.o"
-	@echo "... 21_parametos_inicializados.i"
-	@echo "... 21_parametos_inicializados.s"
-	@echo "... 22_overloading.o"
-	@echo "... 22_overloading.i"
-	@echo "... 22_overloading.s"
-	@echo "... 23_recursividad.o"
-	@echo "... 23_recursividad.i"
-	@echo "... 23_recursividad.s"
-	@echo "... 24_arrays_functions.o"
-	@echo "... 24_arrays_functions.i"
-	@echo "... 24_arrays_functions.s"
-	@echo "... 25_funciones_refers.o"
-	@echo "... 25_funciones_refers.i"
-	@echo "... 25_funciones_refers.s"
-	@echo "... 26_classes.o"
-	@echo "... 26_classes.i"
-	@echo "... 26_classes.s"
-	@echo "... 27_identificador_acceso.o"
-	@echo "... 27_identificador_acceso.i"
-	@echo "... 27_identificador_acceso.s"
-	@echo "... 28_metodos_publicos.o"
-	@echo "... 28_metodos_publicos.i"
-	@echo "... 28_metodos_publicos.s"
-	@echo "... 29_contructores.o"
-	@echo "... 29_contructores.i"
-	@echo "... 29_contructores.s"
-	@echo "... 2_variables_y_tipos_de_dato.o"
-	@echo "... 2_variables_y_tipos_de_dato.i"
-	@echo "... 2_variables_y_tipos_de_dato.s"
-	@echo "... 30_contructor_iniciado.o"
-	@echo "... 30_contructor_iniciado.i"
-	@echo "... 30_contructor_iniciado.s"
-	@echo "... 31_clases_separadas.o"
-	@echo "... 31_clases_separadas.i"
-	@echo "... 31_clases_separadas.s"
-	@echo "... 32_destructor.o"
-	@echo "... 32_destructor.i"
-	@echo "... 32_destructor.s"
-	@echo "... 33_objeto_memoria.o"
-	@echo "... 33_objeto_memoria.i"
-	@echo "... 33_objeto_memoria.s"
-	@echo "... 34_composition.o"
-	@echo "... 34_composition.i"
-	@echo "... 34_composition.s"
-	@echo "... 35_friend_function.o"
-	@echo "... 35_friend_function.i"
-	@echo "... 35_friend_function.s"
-	@echo "... 36_this.o"
-	@echo "... 36_this.i"
-	@echo "... 36_this.s"
-	@echo "... 37_overload.o"
-	@echo "... 37_overload.i"
-	@echo "... 37_overload.s"
-	@echo "... 38_herencia.o"
-	@echo "... 38_herencia.i"
-	@echo "... 38_herencia.s"
-	@echo "... 39_herencia_contructores.o"
-	@echo "... 39_herencia_contructores.i"
-	@echo "... 39_herencia_contructores.s"
-	@echo "... 3_entradas_y_salidas.o"
-	@echo "... 3_entradas_y_salidas.i"
-	@echo "... 3_entradas_y_salidas.s"
-	@echo "... 40_polimorfismo.o"
-	@echo "... 40_polimorfismo.i"
-	@echo "... 40_polimorfismo.s"
-	@echo "... 41_funcion_virtual.o"
-	@echo "... 41_funcion_virtual.i"
-	@echo "... 41_funcion_virtual.s"
-	@echo "... 42_funcion_virtual_pura.o"
-	@echo "... 42_funcion_virtual_pura.i"
-	@echo "... 42_funcion_virtual_pura.s"
-	@echo "... 43_templates.o"
-	@echo "... 43_templates.i"
-	@echo "... 43_templates.s"
-	@echo "... 44_templates_multiple.o"
-	@echo "... 44_templates_multiple.i"
-	@echo "... 44_templates_multiple.s"
-	@echo "... 45_template_class.o"
-	@echo "... 45_template_class.i"
-	@echo "... 45_template_class.s"
-	@echo "... 46_template_specialization.o"
-	@echo "... 46_template_specialization.i"
-	@echo "... 46_template_specialization.s"
-	@echo "... 47_try_catch.o"
-	@echo "... 47_try_catch.i"
-	@echo "... 47_try_catch.s"
-	@echo "... 48_hanlde_errors.o"
-	@echo "... 48_hanlde_errors.i"
-	@echo "... 48_hanlde_errors.s"
-	@echo "... 4_operadores.o"
-	@echo "... 4_operadores.i"
-	@echo "... 4_operadores.s"
-	@echo "... 5_condicionales.o"
-	@echo "... 5_condicionales.i"
-	@echo "... 5_condicionales.s"
-	@echo "... 6_bucles.o"
-	@echo "... 6_bucles.i"
-	@echo "... 6_bucles.s"
-	@echo "... 7_arrays.o"
-	@echo "... 7_arrays.i"
-	@echo "... 7_arrays.s"
-	@echo "... 8_arrays_loops.o"
-	@echo "... 8_arrays_loops.i"
-	@echo "... 8_arrays_loops.s"
-	@echo "... 9_matrices.o"
-	@echo "... 9_matrices.i"
-	@echo "... 9_matrices.s"
-	@echo "... Constantes.o"
-	@echo "... Constantes.i"
-	@echo "... Constantes.s"
-	@echo "... Miembros.o"
-	@echo "... Miembros.i"
-	@echo "... Miembros.s"
-	@echo "... MyClass.o"
-	@echo "... MyClass.i"
-	@echo "... MyClass.s"
-	@echo "... Selectores.o"
-	@echo "... Selectores.i"
-	@echo "... Selectores.s"
-	@echo "... files.o"
-	@echo "... files.i"
-	@echo "... files.s"
+	@echo "... cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.o"
+	@echo "... cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.i"
+	@echo "... cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.s"
+	@echo "... cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.o"
+	@echo "... cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.i"
+	@echo "... cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.s"
+	@echo "... cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.o"
+	@echo "... cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.i"
+	@echo "... cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.s"
+	@echo "... cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.o"
+	@echo "... cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.i"
+	@echo "... cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.s"
+	@echo "... cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.o"
+	@echo "... cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.i"
+	@echo "... cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.s"
+	@echo "... cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.o"
+	@echo "... cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.i"
+	@echo "... cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.s"
+	@echo "... cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.o"
+	@echo "... cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.i"
+	@echo "... cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.s"
+	@echo "... cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.o"
+	@echo "... cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.i"
+	@echo "... cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.s"
 .PHONY : help
 
 

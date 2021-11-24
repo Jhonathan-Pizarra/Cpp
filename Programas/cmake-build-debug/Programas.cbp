@@ -80,175 +80,28 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/10_punteros.cpp">
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/1_tickets_autobus.cpp">
 			<Option target="Programas"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/11_operaciones_punteros.cpp">
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/2_contador.cpp">
 			<Option target="Programas"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/12_memoria.cpp">
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/3_boletos_feria.cpp">
 			<Option target="Programas"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/13_operador_sizeof.cpp">
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/4_palindromos.cpp">
 			<Option target="Programas"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/14_funciones.cpp">
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/5_colas.cpp">
 			<Option target="Programas"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/15_prototipos.cpp">
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/6_colas_sobrecargadas.cpp">
 			<Option target="Programas"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/16_parametros.cpp">
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/7_cola_nueva.cpp">
 			<Option target="Programas"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/17_parametros_multiples.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/18_random.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/19_srandom.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/1_holaMundo.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/20_truly_randoms.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/21_parametos_inicializados.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/22_overloading.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/23_recursividad.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/24_arrays_functions.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/25_funciones_refers.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/26_classes.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/27_identificador_acceso.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/28_metodos_publicos.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/29_contructores.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/2_variables_y_tipos_de_dato.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/30_contructor_iniciado.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/31_clases_separadas.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/32_destructor.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/33_objeto_memoria.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/34_composition.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/35_friend_function.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/36_this.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/37_overload.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/38_herencia.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/39_herencia_contructores.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/3_entradas_y_salidas.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/40_polimorfismo.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/41_funcion_virtual.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/42_funcion_virtual_pura.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/43_templates.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/44_templates_multiple.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/45_template_class.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/46_template_specialization.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/47_try_catch.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/48_hanlde_errors.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/4_operadores.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/5_condicionales.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/6_bucles.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/7_arrays.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/8_arrays_loops.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/9_matrices.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/Constantes.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/Constantes.h">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/Miembros.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/Miembros.h">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/MyClass.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/MyClass.h">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/Selectores.cpp">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/Selectores.h">
-			<Option target="Programas"/>
-		</Unit>
-		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/files.cpp">
+		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Ejericios/8_plantilla_colas.cpp">
 			<Option target="Programas"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/hp/Desktop/Martes/Cpp/Programas/CMakeLists.txt">
